@@ -11,7 +11,7 @@ The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) fram
 | Section | # of Papers |
 |:---:|:---:|
 |[Survey papers](#Surveys) | 1|
-| [Traditional methods](#Traditional_methods) | 0 |
+| [Traditional methods](#Traditional methods) | 0 |
 
 
 
