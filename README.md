@@ -17,7 +17,7 @@ The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) fram
 
 <h1 id="Surveys">Survey papers</h1>
 
-:heavy_check_mark: [Image-based camera localization: an overview] [[Paper]](https://arxiv.org/abs/1610.03660)  Visual Computing for Industry, Biomedicine, and Art, 2018
+:heavy_check_mark: 【Image-based camera localization: an overview】 [[Paper]](https://arxiv.org/abs/1610.03660)  Visual Computing for Industry, Biomedicine, and Art, 2018
 
 
 <h1 id="traditional">Traditional methods</h1>
