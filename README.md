@@ -40,14 +40,14 @@ The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) fram
 <b> More detailed notes in the notes branch.</b> This paper focused on the outdoor scene. The differences of the method and traditional methods are using image stiching to get panoramic images.
 </details>
 
-
 <details>
-<summary> <b>【Parallel Tracking and Mapping on a Camera Phone】</b> ISMAR, 2009</summary>
+<summary> <b>【Parallel Tracking and Mapping on a Camera Phone】</b> ISMAR, 2009.</summary>
 </details>
 
 <details>
-<summary> <b>【Pose Tracking from Natural Features on Mobile Phones】</b> ISMAR, 2008</summary>
+<summary> <b>【Pose Tracking from Natural Features on Mobile Phones】</b> ISMAR, 2008.</summary>
 </details>
+
 <details>
 <summary> <b>【Scalable 6-DOF Localization on Mobile Devices】</b> Iven Middelberg, Torsten Sattler. ECCV, 2014. 📒</summary>
 This work combines the local tracking and global relocalization so they throwed the loop closuring in the tracking. The main contributions of this paper are the three align methods: alignment only once, alignment using the global keyframe positions and alignmnet Using the global 2D-3D matches.
