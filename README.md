@@ -24,8 +24,9 @@ The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) fram
 <h1 id="system">System</h1>
 
 <details>
-  <summary>Wide area localization on mobile phones. Clemens Arth. ISMAR, 2009 </summary>
-  iuap design 是用友网络FED团队开发的企业级应用前端集成解决方案。
+<summary> <b>【Wide area localization on mobile phones】</b> Clemens Arth. ISMAR, 2009</summary>
+
+	The first step is reconstruction and save the result by PVS(potentially visible sets). Then feature matching and pose etismation... With detailed notes in the note branch.
 </details>
 
 :heavy_check_mark: **[Real-time self-localization from panoramic images on mobile devices]** [[Paper]](https://arbook.icg.tugraz.at/schmalstieg/Schmalstieg_162.pdf) Clemens Arth. ISMAR, 2011
