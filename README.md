@@ -59,6 +59,14 @@ This work combines the local tracking and global relocalization so they throwed 
 </details>
 
 
+
+
+<h1 id="Pose">Feature Extraction</h1>
+
+
+
+
+
 <h1 id="Retrieval">Retrieval Methods</h1>
 
 <details>
@@ -81,9 +89,67 @@ Beacause using 2D points for find 3D points is not efficient, but using 3D point
 </details>
 
 
-
 <h1 id="Pose">Pose Estimation</h1>
 
+
+
+<h1 id="Pose">Wait to sort</h1>
+
+<details>
+  <summary> <b>【FREAK:Fast Retina Keypoint.】</b> A. Amit. CVPR, 2012.</summary>
+</details>
+
+<details>
+  <summary> <b>【NetVLAD: CNN architecture for weakly supervised place recognition】</b> R. Arandjelovic. CVPR, 2016. </summary>
+</details>
+
+<details>
+  <summary> <b>【Three thins evereyone should know to improve object retrieval】</b> R. Arandjelovic. CVPR, 2012. </summary>
+</details>
+
+<details>
+  <summary> <b>【Learning local feature descriptors with triplets and shallow convolutional neural networks】</b> V. Balntas. BMVC, 2016. </summary>
+</details>
+
+<details>
+  <summary> <b>【Learning 6D Object Pose Estimation Using 3D Objet Coordinates】</b> E.Brachmann. ECCV, 2014.</summary>
+</details>
+
+<details>
+  <summary> <b>【DSAC-Differentiable RANSAC for Camera Localization】</b> E.Brachmann. CVPR, 2017. </summary>
+</details>
+
+<details>
+  <summary> <b>【Discriminative Learning of Local Image Descriptors】</b> TPAMI, 2011.</summary>
+</details>
+
+<details>
+  <summary> <b>【Deep Image Retrieval: Learning global representations for image search】</b> A. Gordo. arkiv, 2016. </summary>
+</details>
+
+<details>
+  <summary> <b>【MatchNet: Unifying feature and metric learning for patch-based matching】</b>X. Han. CVPR, 2015. </summary>
+</details>
+
+<details>
+  <summary> <b>【Comparative evaluation of binary features】</b>J. Heinly. ECCV. </summary>
+</details>
+
+<details>
+  <summary> <b>【PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization】</b>A. Kendall, M. ICCV, 2015. </summary>
+</details>
+
+<details>
+  <summary> <b>【LIFT: Learned Invariant Feature Transform】</b> M.Kwang. ECCV, 2016. </summary>
+</details>
+
+<details>
+  <summary> <b>【Semantic Visual Localization】</b> J. L. Schonberger. CVPR, 2018. </summary>
+</details>
+
+<details>
+  <summary> <b>【Camera Pose Voting for Large-Scale Image-Based Localization】</b> B. Zeisl. ICCV, 2015.. </summary>
+</details>
 
 
 
