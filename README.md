@@ -6,7 +6,7 @@ The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) fram
 
 
 
-### TOC
+TOC
 
 | Section | # of Papers |
 |:---:|:---:|
@@ -25,11 +25,8 @@ The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) fram
 
 <details>
 <summary> <b>【Wide area localization on mobile phones】</b> Clemens Arth. ISMAR, 2009</summary>
-The first step is reconstruction and save the result by PVS(potentially visible sets). Then feature matching and pose etismation... 
-
-With detailed notes in the note branch.
+The first step is reconstruction and save the result by PVS(potentially visible sets). Then feature matching and pose etismation... In a normal relocalization way.<b>More detailed notes in the notes branch.</b>
 </details>
-
 
 :heavy_check_mark: **[Real-time self-localization from panoramic images on mobile devices]** [[Paper]](https://arbook.icg.tugraz.at/schmalstieg/Schmalstieg_162.pdf) Clemens Arth. ISMAR, 2011
 
