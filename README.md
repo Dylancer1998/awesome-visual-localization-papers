@@ -17,8 +17,9 @@ TOC
 
 <h1 id="Surveys">Survey papers</h1>
 
-:heavy_check_mark: **[Image-based camera localization: an overview]** [[Paper]](https://arxiv.org/abs/1610.03660) Yihong Wu. Visual Computing for Industry, Biomedicine, and Art, 2018
-
+<details>
+<summary> <b>【[Image-based camera localization: an overview】</b> ihong Wu. Visual Computing for Industry, Biomedicine, and Art, 2018 </summary>
+</details>
 
 
 <h1 id="system">System</h1>
