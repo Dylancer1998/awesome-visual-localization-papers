@@ -23,10 +23,8 @@ The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) fram
 
 <h1 id="system">System</h1>
 
-:heavy_check_mark: **[Wide area localization on mobile phones]** [[Paper]](https://arbook.icg.tugraz.at/schmalstieg/Schmalstieg_162.pdf)  Clemens Arth. ISMAR, 2009
-
 <details>
-  <summary>什么是iuap design</summary>
+  <summary>Wide area localization on mobile phones. Clemens Arth. ISMAR, 2009 </summary>
   iuap design 是用友网络FED团队开发的企业级应用前端集成解决方案。
 </details>
 
