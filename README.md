@@ -155,3 +155,7 @@ Beacause using 2D points for find 3D points is not efficient, but using 3D point
 <details>
   <summary> <b>【ASLFeat: Learning Local Features of Accurate Shape and Localization】</b> Zixin, Lup. CVPR, 2020. </summary>
 </details>
+
+<details>
+  <summary> <b>【City-Scale Localization for Cameras with Known Vertical Direction】</b> Linus Svarm. TAPMI, 2016. </summary>
+</details>
