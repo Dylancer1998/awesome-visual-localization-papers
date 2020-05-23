@@ -26,7 +26,7 @@ TOC
 
 <details>
 <summary> <b>【Wide area localization on mobile phones】</b> Clemens Arth. ISMAR, 2009</summary>
-The first step is reconstruction and save the result by PVS(potentially visible sets). Then feature matching and pose etismation... In a normal relocalization way.<b> More detailed notes in the notes branch.</b>
+<b> More detailed notes in the notes branch.</b> The first step is reconstruction and save the result by PVS(potentially visible sets). Then feature matching and pose etismation... In a normal relocalization way.
 </details>
 
 <details>
