@@ -22,10 +22,9 @@ The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) fram
 <h1 id="Surveys">Survey papers</h1>
 
 <details>
-<summary> <b>【[Image-based camera localization: an overview】</b> ihong Wu. Visual Computing for Industry, Biomedicine, and Art, 2018. 📒</summary>
+<summary> <b>【[Image-based camera localization: an overview】</b> Yihong Wu. Visual Computing for Industry, Biomedicine, and Art, 2018. 📒</summary>
  <b> More detailed notes in the notes branch.</b>
 </details>
-
 
 
 
@@ -52,13 +51,9 @@ The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) fram
 <summary> <b>【Scalable 6-DOF Localization on Mobile Devices】</b> Iven Middelberg, Torsten Sattler. ECCV, 2014. 📒</summary>
 This work combines the local tracking and global relocalization so they throwed the loop closuring in the tracking. The main contributions of this paper are the three align methods: alignment only once, alignment using the global keyframe positions and alignmnet Using the global 2D-3D matches.
 </details>
-
-
 <details>
 <summary> <b>【6D dynamic camera relocalization from single reference image】</b> Feng W. CVPR 2016. </summary>
 </details>
-
-
 
 
 <h1 id="Pose">Feature Extraction</h1>
@@ -90,6 +85,8 @@ Beacause using 2D points for find 3D points is not efficient, but using 3D point
 
 
 <h1 id="Pose">Pose Estimation</h1>
+
+
 
 
 
@@ -151,5 +148,10 @@ Beacause using 2D points for find 3D points is not efficient, but using 3D point
   <summary> <b>【Camera Pose Voting for Large-Scale Image-Based Localization】</b> B. Zeisl. ICCV, 2015.. </summary>
 </details>
 
+<details>
+  <summary> <b>【Image Matching Across Wide Baselines: From Paper to Practice】</b> Yuehe, Jin. CVPR, 2020. </summary>
+</details>
 
-
+<details>
+  <summary> <b>【ASLFeat: Learning Local Features of Accurate Shape and Localization】</b> Zixin, Lup. CVPR, 2020. </summary>
+</details>
