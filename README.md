@@ -46,24 +46,27 @@ The first step is reconstruction and save the result by PVS(potentially visible 
 </details>
 
 <details>
-<summary> <b>【6D dynamic camera relocalization from single reference image】</b> Feng W. CVPR 2016. <a href="https://www.graphics.rwth-aachen.de/software/image-localization/">code</a></summary>
+<summary> <b>【6D dynamic camera relocalization from single reference image】</b> Feng W. CVPR 2016. </summary>
 </details>
 
 
 <h1 id="Retrieval">Retrieval Methods</h1>
 
 <details>
-<summary> <b>【Fast image-based localization using direct 2D to-3D matching】</b> Sattler T. ICCV, 2011</summary>
+<summary> <b>【Fast image-based localization using direct 2D to-3D matching】</b> Sattler T. ICCV, 2011. <a href="https://www.graphics.rwth-aachen.de/software/image-localization/">【Code】</a></summary>
 </details>
 
-:heavy_check_mark: **[Fast image-based localization using direct 2D to-3D matching]** [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6162870) [[Code]](https://www.graphics.rwth-aachen.de/software/image-localization/) Sattler T. ICCV, 2011
+<details>
+<summary> <b>【Image Retrieval for Image-Based Localization Revisited】</b> Sattler T. BMVC, 2012. <a href="https://www.graphics.rwth-aachen.de/software/image-localization/">【Code】</a></summary>
+</details>
 
-:radio_button: **[Image Retrieval for Image-Based Localization Revisited]** [[Paper]](https://graphics.rwth-aachen.de/media/papers/sattler_weyand_bmvc12.pdf) [[Code]](https://www.graphics.rwth-aachen.de/software/image-localization/) Sattler T. BMVC, 2012
+<details>
+<summary> <b>【A Vote-and-Verify Strategy for Fast Spatial Verification in Image Retrieval】</b> ACCV, 2016. </summary>
+</details>
 
-:radio_button: **[A Vote-and-Verify Strategy for Fast Spatial Verification in Image Retrieval]** [[Paper]](https://www.cs.unc.edu/~jtprice/papers/accv_2016_schoenberger.pdf)  ACCV, 2016
-
-:radio_button: **[Improving image-based localization by active correspondence search]**[[Paper]](https://graphics.rwthaachen.de/media/papers/sattler_eccv12_preprint_1.pdf])  ECCV, 2012
-
+<details>
+<summary> <b>【Improving image-based localization by active correspondence search】</b> ECCV, 2012. </summary>
+</details>
 
 
 <h1 id="Pose">Pose Estimation</h1>
