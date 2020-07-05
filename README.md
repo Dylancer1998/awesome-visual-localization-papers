@@ -13,9 +13,12 @@ The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) fram
 |[Survey papers](#Surveys) | 1|
 |[System](#system) | 6 |
 |[Retrieval methods](#Retrieval) | 4 |
-|[Pose Estimation](#Pose) | 0 |
+|[Pose Estimation](#Pose) | 1 |
+|[SLAM](#SLAM) | 1 |
+|[SfM](#SfM) | 1 |
+|[Feature Extracting and Matching](#Feature) | 1 |
 
-\* 📒 means there are detailed notes in the notes branch,
+\* 📒 means which are most import in this are and there are detailed notes in the notes branch, others are not most important and scan roughly.
 
 
 
@@ -56,9 +59,12 @@ This work combines the local tracking and global relocalization so they throwed 
 </details>
 
 
-<h1 id="Pose">Feature Extraction</h1>
+<h1 id="Feature">Feature Extracting and Matching</h1>
 
-
+<details>
+<summary> <b>【SuperGlue: Learning Feature Matching with Graph Neural Networks】Paul-Edouard Sarlin. CVPR, 2020. </b>  <a href="https://github.com/magicleap/SuperGluePretrainedNetwork">【Code】📒</a></summary>
+<b> More detailed notes in the notes branch.</b> A deep learning method to instead middle-end of SLAM.
+</details>
 
 
 
@@ -85,12 +91,28 @@ Beacause using 2D points for find 3D points is not efficient, but using 3D point
 
 
 <h1 id="Pose">Pose Estimation</h1>
+<details>
+<summary> <b>【DSAC - Differentiable RANSAC for Camera Localization】</b>E. Brachmann. CVPR, 2017. </summary>
+propose **Differentiable SAmple Consensus** and make RANSAC method available for camera localization in an **end-to-end-trained** deep learning pipeline
+</details>
+
+
+<h1 id="SLAM">SLAM</h1>
+<details>
+<summary> <b>【Neural Topological SLAM for Visual Navigation】</b>Devendra Singh Chaplot. CVPR, 2020. </summary>
+The goal is giving a image in a house and then navigate the robot to find the right place.
+</details>
+
+
+<h1 id="SfM">SfM</h1>
+<details>
+<summary> <b>【Consistent Video Depth Estimation】</b>XUAN LUO. SIGGRAPH 2020. </summary>
+Using colmap to do sparse reconstruction, using deep learning methods to do dense reconstrution.
+</details>
 
 
 
-
-
-<h1 id="Pose">Wait to sort</h1>
+<h1 id="Wait">Wait to sort</h1>
 
 <details>
   <summary> <b>【FREAK:Fast Retina Keypoint.】</b> A. Amit. CVPR, 2012.</summary>
