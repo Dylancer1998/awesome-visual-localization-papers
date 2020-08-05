@@ -2,25 +2,12 @@
 
 Contributed by Dehao Zhang.
 
-The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) frame in the coordinate system given by the prior model of the world. 
+The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) frame in the coordinate system given by the prior model of the world.  The most related topics are SLAM and SfM.
 
 
 
-**TOC**
-
-| Section | # of Papers |
-|:---:|:---:|
-|[Survey papers](#Surveys) | 1|
-|[System](#system) | 6 |
-|[Retrieval methods](#Retrieval) | 4 |
-|[Pose Estimation](#Pose) | 1 |
-|[SLAM](#SLAM) | 1 |
-|[SfM](#SfM) | 1 |
-|[Feature Extracting and Matching](#Feature) | 1 |
 
 \* 📒 means which are most import in this are and there are detailed notes in the notes branch, others are not most important and scan roughly.
-
-
 
 <h1 id="Surveys">Survey papers</h1>
 
