@@ -10,5 +10,7 @@ This competition have been hosted for 5 years in CVPR.
 
 ## Main Page
 
-https://sites.google.com/view/vislocslamcvpr2020/home
+- Use your own feature detector and descriptor to extract local features for all query images and their reference images.
+- Execute the provided code for importing the features, performing feature matching, 3D reconstruction, and camera pose estimation. If you want to use your own feature matcher and not the one provided by us (which finds mutual nearest neighbors), you will need to adapt this [code](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Ftsattler%2Fvisuallocalizationbenchmark%2Fblob%2Fmaster%2Flocal_feature_evaluation%2Fmatchers.py&sa=D&sntz=1&usg=AFQjCNHuIyLW4UsmGpZ-qr7XOGyWUNKVAA).
+- Submit the output file at [visuallocalization.net](http://www.google.com/url?q=http%3A%2F%2Fvisuallocalization.net&sa=D&sntz=1&usg=AFQjCNGLfV3m922xdRGDKGxyoYZ7vEzLrA), indicating that you are submitting to the local feature challenge of this CVPR 2020 workshop.
 
