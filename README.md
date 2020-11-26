@@ -13,8 +13,6 @@ The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) fram
 </details>
 
 
-
-
 <h1 id="system">System</h1>
 
 <details>
@@ -24,7 +22,7 @@ The first step is reconstruction and save the result by PVS(potentially visible 
 
 <details>
 <summary> <b>【Real-time self-localization from panoramic images on mobile devices】</b> Clemens Arth. ISMAR, 2011. </summary>
-<b> More detailed notes in the notes branch.</b> This paper focused on the outdoor scene. The differences of the method and traditional methods are using image stiching to get panoramic images.
+This paper focused on the outdoor scene. The differences of the method and traditional methods are using image stiching to get panoramic images.
 </details>
 <details>
 <summary> <b>【Parallel Tracking and Mapping on a Camera Phone】</b> ISMAR, 2009.</summary>
@@ -38,8 +36,13 @@ The first step is reconstruction and save the result by PVS(potentially visible 
 <summary> <b>【Scalable 6-DOF Localization on Mobile Devices】</b> Iven Middelberg, Torsten Sattler. ECCV, 2014. </summary>
 This work combines the local tracking and global relocalization so they throwed the loop closuring in the tracking. The main contributions of this paper are the three align methods: alignment only once, alignment using the global keyframe positions and alignmnet Using the global 2D-3D matches.
 </details>
+
 <details>
 <summary> <b>【6D dynamic camera relocalization from single reference image】</b> Feng W. CVPR 2016. </summary>
+</details>
+
+<details>
+  <summary> <b>【Image Matching Across Wide Baselines: From Paper to Practice】</b> Yuehe, Jin. CVPR, 2020. </summary>
 </details>
 
 
@@ -79,6 +82,11 @@ Beacause using 2D points for find 3D points is not efficient, but using 3D point
 propose **Differentiable SAmple Consensus** and make RANSAC method available for camera localization in an **end-to-end-trained** deep learning pipeline
 </details>
 
+<h1 id="Retrieval">Multi-sensor fusion</h1>
+<details>
+<summary> <b>【DARNavi: An Indoor-Outdoor Immersive Navigation System with Augmented Reality】</b>Didi Chuxing. CVPR, 2020. </summary>
+Proposed a framwork which combined the **PDR**(Pedestrian Dead Reckoning), ARKit and visual localization. But the details about the fusion strategy were not introduced in the paper.
+</details>
 
 <h1 id="SLAM">SLAM</h1>
 <details>
@@ -151,10 +159,6 @@ Using colmap to do sparse reconstruction, using deep learning methods to do dens
 
 <details>
   <summary> <b>【Camera Pose Voting for Large-Scale Image-Based Localization】</b> B. Zeisl. ICCV, 2015.. </summary>
-</details>
-
-<details>
-  <summary> <b>【Image Matching Across Wide Baselines: From Paper to Practice】</b> Yuehe, Jin. CVPR, 2020. </summary>
 </details>
 
 <details>
