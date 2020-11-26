@@ -1,4 +1,4 @@
-# Camera-relocalization-papers
+# Visual-Based-Localization-Papers
 
 Contributed by Dehao Zhang.
 
