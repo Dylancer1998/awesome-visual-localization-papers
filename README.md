@@ -21,7 +21,7 @@ The first step is reconstruction and save the result by PVS(potentially visible 
 </details>
 
 <details>
-<summary> <b>【Real-time self-localization from panoramic images on mobile devices】</b> Clemens Arth. ISMAR, 2011. </summary>
+<summary> <b>【Real-time self-localization from panoramic images on mobile devices】</b> Clemens Arth. ISMAR, 2011.  </summary>
 This paper focused on the outdoor scene. The differences of the method and traditional methods are using image stiching to get panoramic images.
 </details>
 <details>
@@ -42,7 +42,8 @@ This work combines the local tracking and global relocalization so they throwed 
 </details>
 
 <details>
-  <summary> <b>【Image Matching Across Wide Baselines: From Paper to Practice】</b> Yuehe, Jin. CVPR, 2020. </summary>
+<summary> <b>【Image Matching Across Wide Baselines: From Paper to Practice】</b> Yuehe, Jin. CVPR, 2020. <a href="https://github.com/ubc-vision/image-matching-benchmark">【Code】</a> </summary>
+This paper thought there were lots of fake "state of the art", so it gave a modular pipeline which incorporate dozens of methods for feature extraction, matching, and pose estimation. It's worth to read!!!
 </details>
 
 
@@ -81,6 +82,12 @@ Beacause using 2D points for find 3D points is not efficient, but using 3D point
 <summary> <b>【DSAC - Differentiable RANSAC for Camera Localization】</b>E. Brachmann. CVPR, 2017. </summary>
 propose **Differentiable SAmple Consensus** and make RANSAC method available for camera localization in an **end-to-end-trained** deep learning pipeline
 </details>
+
+<details>
+<summary> <b>【MAGSAC: marginalizing sample consensus】</b>Barath, D. CVPR, 2019. </summary>
+ad
+</details>
+
 
 <h1 id="Retrieval">Multi-sensor fusion</h1>
 <details>
@@ -168,3 +175,6 @@ Using colmap to do sparse reconstruction, using deep learning methods to do dens
 <details>
   <summary> <b>【City-Scale Localization for Cameras with Known Vertical Direction】</b> Linus Svarm. TAPMI, 2016. </summary>
 </details>
+**【ACNe: Attentive Context Normalization for Robust PermutationEquivariant Learning】** Sun, W. CVPR, 2020.
+
+**【Is there anything new to say about SIFT matching?】**Fabio Bellavia. IJCV, 2020.
