@@ -175,6 +175,6 @@ Using colmap to do sparse reconstruction, using deep learning methods to do dens
 <details>
   <summary> <b>【City-Scale Localization for Cameras with Known Vertical Direction】</b> Linus Svarm. TAPMI, 2016. </summary>
 </details>
-**【ACNe: Attentive Context Normalization for Robust PermutationEquivariant Learning】** Sun, W. CVPR, 2020.
-
-**【Is there anything new to say about SIFT matching?】**Fabio Bellavia. IJCV, 2020.
+【ACNe: Attentive Context Normalization for Robust PermutationEquivariant Learning】 Sun, W. CVPR, 2020.
+【Is there anything new to say about SIFT matching?】Fabio Bellavia. IJCV, 2020.
+【Learning to Find Good Correspondences】Kwang Moo Yi. CVPR, 2018, oral.
