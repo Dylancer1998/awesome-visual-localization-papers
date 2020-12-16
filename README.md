@@ -52,12 +52,12 @@ This paper thought there were lots of fake "state of the art", so it gave a modu
 <h1 id="FeatureMatch">Feature Matching</h1>
 
 <details>
-<summary> <b>[SuperGlue: Learning Feature Matching with Graph Neural Networks]Paul-Edouard Sarlin. CVPR, 2020. </b>  <a href="https://github.com/magicleap/SuperGluePretrainedNetwork">[Code]</a></summary>
+<summary> <b>[SuperGlue: Learning Feature Matching with Graph Neural Networks]  </b> Paul-Edouard Sarlin. CVPR, 2020. <a href="https://github.com/magicleap/SuperGluePretrainedNetwork">[Code]</a></summary>
 A deep learning method to instead middle-end of SLAM.
 </details>
 
 <details>
-<summary> <b>[Unread][Learning Feature Descriptors using Camera Pose Supervision]Qianqian Wang. ECCV, 2020(oral). </b>  <a href="https://github.com/qianqianwang68/caps">[Code]</a></summary>
+<summary> <b>[Unread][Learning Feature Descriptors using Camera Pose Supervision]  </b> Qianqian Wang. ECCV, 2020(oral). <a href="https://github.com/qianqianwang68/caps">[Code]</a></summary>
 </details>
 
 
@@ -89,11 +89,19 @@ ad
 </details>
 
 
-<h1 id="Retrieval">Multi-sensor fusion</h1>
+<h1 id="Fusion">Multi-sensor fusion</h1>
+<h2 id="Fusion with IMU">Fusion with IMU</h2>
 <details>
 <summary> <b>[DARNavi: An Indoor-Outdoor Immersive Navigation System with Augmented Reality]</b>Didi Chuxing. CVPR, 2020. </summary>
 Proposed a framwork which combined the **PDR**(Pedestrian Dead Reckoning), ARKit and visual localization. But the details about the fusion strategy were not introduced in the paper.
 </details>
+
+<h2 id="Fusion with GPS">Fusion with GPS</h2>
+<details>
+<summary> <b>[Intermittent GPS-aided VIO: Online Initialization and Calibration]</b> Woosik Lee. ICRA, 2020. </summary>
+
+</details>
+
 
 <h1 id="SLAM">SLAM</h1>
 <details>
