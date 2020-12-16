@@ -57,7 +57,7 @@ A deep learning method to instead middle-end of SLAM.
 </details>
 
 <details>
-<summary> <b>[Unread][Learning Feature Descriptors using Camera Pose Supervision] </b>  <a href="https://github.com/qianqianwang68/caps">[Code]</a></summary>
+<summary> <b>[Unread][Learning Feature Descriptors using Camera Pose Supervision]Qianqian Wang. ECCV, 2020(oral). </b>  <a href="https://github.com/qianqianwang68/caps">[Code]</a></summary>
 </details>
 
 
