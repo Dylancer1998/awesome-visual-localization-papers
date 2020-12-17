@@ -89,7 +89,7 @@ ad
 </details>
 
 
-<h1 id="Fusion">Multi-sensors fusion</h1>
+<h1 id="Fusion">Multi-sensors Fusion</h1>
 <h2 id="Fusion with IMU">Fusion with IMU</h2>
 <details>
 <summary> <b>[DARNavi: An Indoor-Outdoor Immersive Navigation System with Augmented Reality]</b>Didi Chuxing. CVPR, 2020. </summary>
