@@ -108,7 +108,7 @@ The constraint is MSCKF-based estimator to fuse inertial, camera and asynchronou
 </details>
 
 <details>
-<summary> <b>[A General Optimization-based Framework for Global
+<summary> <b>[Vins Fusion - A General Optimization-based Framework for Global
 Pose Estimation with Multiple Sensors]</b> Tong Qin. </summary>
 Propose a general framework to fuse various global sensors with local estimations, which support multiple global sensors. Finally, use ceres to solve the graph optimization problems.
 </details>
