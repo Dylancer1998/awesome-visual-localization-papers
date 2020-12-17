@@ -64,18 +64,65 @@ A deep learning method to instead middle-end of SLAM.
 <h1 id="Retrieval">Retrieval Methods</h1>
 
 <details>
-<summary> <b>[Fast image-based localization using direct 2D to-3D matching]</b> Sattler T. ICCV, 2011. <a href="https://www.graphics.rwth-aachen.de/software/image-localization/">[Code]</a></summary>
+<summary> <b>[Visual Categorization with Bags of Keypoints]</b> G. Csurka. ECCV, 2004. </summary>
+Very famous framework: Bag of Words.
 </details>
 
 <details>
-<summary> <b>[A Vote-and-Verify Strategy for Fast Spatial Verification in Image Retrieval]</b> ACCV, 2016. </summary>
+<summary> <b>[Fisher Kernels on Visual Vocabularies for Image Categorization]</b> F. Perronnin and C. Dance. CVPR, 2007. </summary>
+Very famous framework: fisher vector.
 </details>
+
+<details>
+<summary> <b>[Aggregating Local Descriptors Into a Compact Image Representation]</b> H. Jegou. CVPR, 2010. </summary>
+Very famous framework: VLAD.
+</details>
+
+<details>
+<summary> <b>[Fast image-based localization using direct 2D to-3D matching]</b> Sattler T. ICCV, 2011. <a href="https://www.graphics.rwth-aachen.de/software/image-localization/">[Code]</a></summary>
+</details>
+
 <details>
 <summary> <b>[Improving image-based localization by active correspondence search]</b> ECCV, 2012. </summary>
 A more efficient version of the "Fast image-based localization using direct 2D to 3D machting". With 2D to 3D match onece and then do 3D to 2D.
 Beacause using 2D points for find 3D points is not efficient, but using 3D points to find 2D points is efficient for the less number of 2D points.
 </details>
 
+<details>
+<summary> <b>[Unread][Aggregating Deep Convolutional Features for Image Retrieval.]</b> A. Babenko and V. Lempitsky. ICCV, 2015. </summary>
+</details>
+
+<details>
+<summary> <b>[Unread][A Vote-and-Verify Strategy for Fast Spatial Verification in Image Retrieval]</b> ACCV, 2016. </summary>
+</details>
+
+<details>
+<summary> <b>[NetVLAD: CNN Architecture for Weakly Supervised Place
+Recognition]</b> R. Arandjelovic. CVPR, 2016. </summary>
+By using GPS, this paper got the potential positives and definite negative training examples.
+</details>
+
+<details>
+<summary> <b>[Unread][Crossdimensional Weighting for Aggregated Deep Convolutional
+Features]</b> Y. Kalantidis. ECCV, 2016. </summary>
+</details>
+
+<details>
+<summary> <b>[Unread][Revisiting Oxford and Paris: Large-scale Image Retrieval Benchmarking]</b> F. Radenovic, G. CVPR, 2018. </summary>
+</details>
+
+<details>
+<summary> <b>[Unread][Fine-Tuning CNN Image Retrieval with no Human Annotation]</b> F. Radenovic, G. PAMI, 2016. </summary>
+</details>
+
+<details>
+<summary> <b>[Unread][Souza. Learning with Average Precision: Training Image Retrieval with a Listwise Loss]</b> J. Revaud. ICCV, 2019. </summary>
+</details>
+
+<details>
+<summary> <b>[Benchmarking Image Retrieval for Visual Localization]</b> Noé Pion,..., Torsten Sattler. 3DV, 2020. <a href="https://github.com/naver/kapture-localization">[code]</a> </summary>
+A detailed survey for image retrieval but more focused on localization. And this paper gives a very useful codebase to evaluate different algorithm.
+</details>
 
 <h1 id="Pose">Pose Estimation</h1>
 <details>
@@ -84,7 +131,7 @@ propose **Differentiable SAmple Consensus** and make RANSAC method available for
 </details>
 
 <details>
-<summary> <b>[MAGSAC: marginalizing sample consensus]</b>Barath, D. CVPR, 2019. </summary>
+<summary> <b>[MAGSAC: marginalizing sample consensus]</b>  Barath, D. CVPR, 2019. </summary>
 ad
 </details>
 
@@ -124,14 +171,14 @@ Inertial Odometry) with GPS measurements.
 
 <h1 id="SLAM">SLAM</h1>
 <details>
-<summary> <b>[Neural Topological SLAM for Visual Navigation]</b>Devendra Singh Chaplot. CVPR, 2020. </summary>
+<summary> <b>[Neural Topological SLAM for Visual Navigation]</b> Devendra Singh Chaplot. CVPR, 2020. </summary>
 The goal is giving a image in a house and then navigate the robot to find the right place.
 </details>
 
 
 <h1 id="SfM">SfM</h1>
 <details>
-<summary> <b>[Consistent Video Depth Estimation]</b>XUAN LUO. SIGGRAPH 2020. </summary>
+<summary> <b>[Consistent Video Depth Estimation]</b> XUAN LUO. SIGGRAPH 2020. </summary>
 Using colmap to do sparse reconstruction, using deep learning methods to do dense reconstrution.
 </details>
 
