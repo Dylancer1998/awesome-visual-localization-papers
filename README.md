@@ -89,7 +89,7 @@ ad
 </details>
 
 
-<h1 id="Fusion">Multi-sensor fusion</h1>
+<h1 id="Fusion">Multi-sensors fusion</h1>
 <h2 id="Fusion with IMU">Fusion with IMU</h2>
 <details>
 <summary> <b>[DARNavi: An Indoor-Outdoor Immersive Navigation System with Augmented Reality]</b>Didi Chuxing. CVPR, 2020. </summary>
@@ -104,11 +104,11 @@ IMU and camera fusion is performed in a tightly coupled manner by an error-state
 
 <details>
 <summary> <b>[Intermittent GPS-aided VIO: Online Initialization and Calibration]</b> Woosik Lee. ICRA, 2020. </summary>
-The constraint is MSCKF-based estimator to fuse inertial, camera and asynchronous GPS measurements and this paper try to solve the time offset problem. The method is tightly-coupled so it is not very suitable for map-based relocalization.
+The constraint is MSCKF-based estimator to fuse inertial, camera and asynchronous GPS measurements and this paper tried to solve the time offset problem. The method is tightly-coupled so it is not very suitable for map-based relocalization.
 </details>
 
 <details>
-<summary> <b>[Vins Fusion - A General Optimization-based Framework for Global
+<summary> <b>[Vins Fusion -- A General Optimization-based Framework for Global
 Pose Estimation with Multiple Sensors]</b> Tong Qin. </summary>
 Propose a general framework to fuse various global sensors with local estimations, which support multiple global sensors. Finally, use ceres to solve the graph optimization problems.
 </details>
