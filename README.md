@@ -98,9 +98,28 @@ Proposed a framwork which combined the **PDR**(Pedestrian Dead Reckoning), ARKit
 
 <h2 id="Fusion with GPS">Fusion with GPS</h2>
 <details>
-<summary> <b>[Intermittent GPS-aided VIO: Online Initialization and Calibration]</b> Woosik Lee. ICRA, 2020. </summary>
-
+<summary> <b>[Multi-sensor navigation algorithm using monocular camera, imu and gps for large scale augmented reality]</b> T. Oskiper. ISMAR, 2012. </summary>
+IMU and camera fusion is performed in a tightly coupled manner by an error-state extended Kalman filter (EKF). GPS is also fused by a optimization framework.
 </details>
+
+<details>
+<summary> <b>[Intermittent GPS-aided VIO: Online Initialization and Calibration]</b> Woosik Lee. ICRA, 2020. </summary>
+The constraint is MSCKF-based estimator to fuse inertial, camera and asynchronous GPS measurements and this paper try to solve the time offset problem. The method is tightly-coupled so it is not very suitable for map-based relocalization.
+</details>
+
+<details>
+<summary> <b>[A General Optimization-based Framework for Global
+Pose Estimation with Multiple Sensors]</b> Tong Qin. </summary>
+Propose a general framework to fuse various global sensors with local estimations, which support multiple global sensors. Finally, use ceres to solve the graph optimization problems.
+</details>
+
+<details>
+<summary> <b>[Gomsf: Graph-optimization based multi-sensor fusion for robust uav pose estimation]</b> R. Mascaro, L. ICRA 2018 </summary>
+Propose an optimization-based framework to fuse local VIO (Visual
+Inertial Odometry) with GPS measurements.
+</details>
+
+
 
 
 <h1 id="SLAM">SLAM</h1>
