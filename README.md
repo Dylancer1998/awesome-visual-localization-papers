@@ -108,11 +108,11 @@ Features]</b> Y. Kalantidis. ECCV, 2016. </summary>
 </details>
 
 <details>
-<summary> <b>[Unread][Revisiting Oxford and Paris: Large-scale Image Retrieval Benchmarking]</b> F. Radenovic, G. CVPR, 2018. </summary>
+<summary> <b>[Unread][Fine-Tuning CNN Image Retrieval with no Human Annotation]</b> F. Radenovic, G. PAMI, 2016. </summary>
 </details>
 
 <details>
-<summary> <b>[Unread][Fine-Tuning CNN Image Retrieval with no Human Annotation]</b> F. Radenovic, G. PAMI, 2016. </summary>
+<summary> <b>[Unread][Revisiting Oxford and Paris: Large-scale Image Retrieval Benchmarking]</b> F. Radenovic, G. CVPR, 2018. </summary>
 </details>
 
 <details>
