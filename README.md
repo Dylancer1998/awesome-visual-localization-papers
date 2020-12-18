@@ -42,6 +42,12 @@ This work combines the local tracking and global relocalization so they throwed 
 </details>
 
 <details>
+<summary> <b>[A Dataset for Benchmarking Image-based Localization]</b> Xun Sun. Baidu Autonomous Driving Business Unit. CVPR, 2017. </summary>
+This paper proposed a dataset of BaiduMall and gave a summary about how to improve the recall of retrieval methods and match methods.
+</details>
+
+
+<details>
 <summary> <b>[Image Matching Across Wide Baselines: From Paper to Practice]</b> Yuehe, Jin. CVPR, 2020. <a href="https://github.com/ubc-vision/image-matching-benchmark">[Code]</a> </summary>
 This paper thought there were lots of fake "state of the art", so it gave a modular pipeline which incorporate dozens of methods for feature extraction, matching, and pose estimation. It's worth to read!!!
 </details>
@@ -127,7 +133,7 @@ A detailed survey for image retrieval but more focused on localization. And this
 <h1 id="Pose">Pose Estimation</h1>
 <details>
 <summary> <b>[DSAC - Differentiable RANSAC for Camera Localization]</b>E. Brachmann. CVPR, 2017. </summary>
-propose **Differentiable SAmple Consensus** and make RANSAC method available for camera localization in an **end-to-end-trained** deep learning pipeline
+propose Differentiable Sample Consensus and make RANSAC method available for camera localization in an end-to-end-trained deep learning pipeline
 </details>
 
 <details>
@@ -155,7 +161,7 @@ The constraint is MSCKF-based estimator to fuse inertial, camera and asynchronou
 </details>
 
 <details>
-<summary> <b>[Vins Fusion -- A General Optimization-based Framework for Global
+<summary> <b>[Vins Fusion —— A General Optimization-based Framework for Global
 Pose Estimation with Multiple Sensors]</b> Tong Qin. </summary>
 Propose a general framework to fuse various global sensors with local estimations, which support multiple global sensors. Finally, use ceres to solve the graph optimization problems.
 </details>
