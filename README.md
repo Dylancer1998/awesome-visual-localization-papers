@@ -52,6 +52,11 @@ This paper proposed a dataset of BaiduMall and gave a summary about how to impro
 This paper thought there were lots of fake "state of the art", so it gave a modular pipeline which incorporate dozens of methods for feature extraction, matching, and pose estimation. It's worth to read!!!
 </details>
 
+<details>
+<summary> <b>[Uread][Using Image Sequences for Long-Term Visual Localization]</b> Erik Stenborg, Torsten Sattler and Lars Hammarstrand. 3DV, 2020. <a href="https://github.com/rulllars/SequentialVisualLocalization">[Code]</a> </summary>
+
+</details>
+
 
 <h1 id="FeatureExtration">Feature Extracting</h1>
 
