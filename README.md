@@ -79,6 +79,12 @@ Very famous framework: Bag of Words.
 </details>
 
 <details>
+<summary> <b>[Unread][Total Recall: Automatic Query Expansion
+with a Generative Feature Model for Object Retrieval]</b> Chum, O. ICCV, 2007. </summary>
+
+</details>
+
+<details>
 <summary> <b>[Fisher Kernels on Visual Vocabularies for Image Categorization]</b> F. Perronnin and C. Dance. CVPR, 2007. </summary>
 Very famous framework: fisher vector.
 </details>
@@ -115,21 +121,29 @@ By using GPS, this paper got the potential positives and definite negative train
 </details>
 
 <details>
-<summary> <b>[Unread][Crossdimensional Weighting for Aggregated Deep Convolutional Features]</b> Y. Kalantidis. ECCV, 2016. <a href="https://github.com/yahoo/crow">[Code]</a> </summary>
-
+<summary> <b>[Crossdimensional Weighting for Aggregated Deep Convolutional Features]</b> Y. Kalantidis. ECCV, 2016. <a href="https://github.com/yahoo/crow">[Code]</a> </summary>
+Provided a Cross-dimensional Weighted framework(CroW) as: 1. Perform spatially-local pooling; 2. Compute spatial weighting factors; 3. Compute channel weighting factors; 4. Perform weighted-sum aggregation; 5. Perform vector normalization; 6. Perform dimensionality reduction; 7. Perform final normalization. The difference between "Aggregating Deep Convolutional Features for Image Retrieva" is the weighted summing.
+Another fancy technology is the sparsity-sensitive channel weights, like the inverse document frequency.
 </details>
 
 <details>
-<summary> <b>[Unread][Fine-Tuning CNN Image Retrieval with no Human Annotation]</b> F. Radenovic, G. PAMI, 2016. </summary>
+<summary> <b>[Fine-Tuning CNN Image Retrieval with no Human Annotation]</b> F. Radenovic, G. PAMI, 2017. <a href="http://cmp.felk.cvut.cz/cnnimageretrieval">[Code]</a></summary>
+Three contributions: 1.A geometry verification method to construct the dataset; 2.A new pooling method called GeM pooling; 3.Combine QE into the pipeline. (also introduce some QE tricks)
 </details>
 
 <details>
-<summary> <b>[Unread][Revisiting Oxford and Paris: Large-scale Image Retrieval Benchmarking]</b> F. Radenovic, G. CVPR, 2018. </summary>
+<summary> <b>[Efficient diffusion on region manifolds: Recovering small objects with compact cnn representations]</b> A. Iscen. CVPR, 2017. </summary>
+A novel version of query expansion(QE).
 </details>
 
 <details>
-<summary> <b>[Unread][Souza. Learning with Average Precision: Training Image Retrieval with a Listwise Loss]</b> J. Revaud. ICCV, 2019. </summary>
+<summary> <b>[Revisiting Oxford and Paris: Large-scale Image Retrieval Benchmarking]</b> F. Radenovic, G. CVPR, 2018. </summary>
 </details>
+
+<details>
+<summary> <b>[Unread][Learning with Average Precision: Training Image Retrieval with a Listwise Loss]</b> J. Revaud. ICCV, 2019. </summary>
+</details>
+
 
 <details>
 <summary> <b>[Benchmarking Image Retrieval for Visual Localization]</b> Noé Pion,..., Torsten Sattler. 3DV, 2020. <a href="https://github.com/naver/kapture-localization">[code]</a> </summary>
