@@ -106,7 +106,7 @@ aggregation of raw deep convolutional features without embedding. Sum pooling al
 
 <details>
 <summary> <b>[A Vote-and-Verify Strategy for Fast Spatial Verification in Image Retrieval]</b> Johannes L. Sch¨onberger. ACCV, 2016. <a href="https://github.com/vote-and-verify">[Code]</a></summary>
-Although the paper's name is retrieval, but the verification method is closer to feature matching. Previous verification frameworks based on RANSAC were too slow. This paper gave a hypothesize-and-verify approaches which was very fast. 
+Although the paper's name is retrieval, but the verification method is closer to feature matching. Previous verification frameworks based on RANSAC were too slow. This paper gave a hypothesize-and-verify approaches which was very fast. This paper is integrated to the colmap framework.
 </details>
 
 <details>
@@ -115,8 +115,8 @@ By using GPS, this paper got the potential positives and definite negative train
 </details>
 
 <details>
-<summary> <b>[Unread][Crossdimensional Weighting for Aggregated Deep Convolutional
-Features]</b> Y. Kalantidis. ECCV, 2016. </summary>
+<summary> <b>[Unread][Crossdimensional Weighting for Aggregated Deep Convolutional Features]</b> Y. Kalantidis. ECCV, 2016. <a href="https://github.com/yahoo/crow">[Code]</a> </summary>
+
 </details>
 
 <details>
