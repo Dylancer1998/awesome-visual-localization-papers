@@ -110,9 +110,8 @@ Although the paper's name is retrieval, but the verification method is closer to
 </details>
 
 <details>
-<summary> <b>[NetVLAD: CNN Architecture for Weakly Supervised Place
-Recognition]</b> R. Arandjelovic. CVPR, 2016. </summary>
-By using GPS, this paper got the potential positives and definite negative training examples.
+<summary> <b>[NetVLAD: CNN Architecture for Weakly Supervised Place Recognition]</b> R. Arandjelovic. CVPR, 2016. </summary>
+By using GPS, this paper got the potential positives and definite negative training examples. The difference between NetVLAD and VLAD is aggregation step, NetVLAD use a VLAD layer to learned the weight of each centroid. So that NetVLAD provide a fully differential pipeline to apply on the weakly supervised task.
 </details>
 
 <details>
