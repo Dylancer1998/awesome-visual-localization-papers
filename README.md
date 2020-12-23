@@ -5,11 +5,10 @@ Contributed by Dehao Zhang.
 The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) frame in the coordinate system given by the prior model of the world.  The most related topics are SLAM and SfM.
 
 
-
 <h1 id="Surveys">Survey papers</h1>
 
 <details>
-<summary> <b>[[Image-based camera localization: an overview]</b> Yihong Wu. Visual Computing for Industry, Biomedicine, and Art, 2018. </summary>
+<summary> <b>[Image-based camera localization: an overview]</b> Yihong Wu. Visual Computing for Industry, Biomedicine, and Art, 2018. </summary>
 </details>
 
 
@@ -100,11 +99,14 @@ Beacause using 2D points for find 3D points is not efficient, but using 3D point
 </details>
 
 <details>
-<summary> <b>[Unread][Aggregating Deep Convolutional Features for Image Retrieval.]</b> A. Babenko and V. Lempitsky. ICCV, 2015. </summary>
+<summary> <b> [Aggregating Deep Convolutional Features for Image Retrieval]</b> A. Babenko and V. Lempitsky. ICCV, 2015. </summary>
+This paper gave a decriptor called SPoC which is based on the
+aggregation of raw deep convolutional features without embedding. Sum pooling all deep features weighted by Gaussian scheme, because objects of interest tend to be located close to the geometrical center of an image.
 </details>
 
 <details>
-<summary> <b>[Unread][A Vote-and-Verify Strategy for Fast Spatial Verification in Image Retrieval]</b> ACCV, 2016. </summary>
+<summary> <b>[A Vote-and-Verify Strategy for Fast Spatial Verification in Image Retrieval]</b> Johannes L. Sch¨onberger. ACCV, 2016. <a href="https://github.com/vote-and-verify">[Code]</a></summary>
+Although the paper's name is retrieval, but the verification method is closer to feature matching. Previous verification frameworks based on RANSAC were too slow. This paper gave a hypothesize-and-verify approaches which was very fast. 
 </details>
 
 <details>
@@ -178,8 +180,6 @@ Inertial Odometry) with GPS measurements.
 </details>
 
 
-
-
 <h1 id="SLAM">SLAM</h1>
 <details>
 <summary> <b>[Neural Topological SLAM for Visual Navigation]</b> Devendra Singh Chaplot. CVPR, 2020. </summary>
@@ -192,7 +192,6 @@ The goal is giving a image in a house and then navigate the robot to find the ri
 <summary> <b>[Consistent Video Depth Estimation]</b> XUAN LUO. SIGGRAPH 2020. </summary>
 Using colmap to do sparse reconstruction, using deep learning methods to do dense reconstrution.
 </details>
-
 
 
 <h1 id="Wait">Wait to sort</h1>
