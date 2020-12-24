@@ -157,6 +157,11 @@ propose Differentiable Sample Consensus and make RANSAC method available for cam
 </details>
 
 <details>
+<summary> <b>[Fixing the Locally Optimized RANSAC]</b>  Karel Lebeda. BMVC, 2012. </summary>
+ad
+</details>
+
+<details>
 <summary> <b>[MAGSAC: marginalizing sample consensus]</b>  Barath, D. CVPR, 2019. </summary>
 ad
 </details>
