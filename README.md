@@ -52,7 +52,7 @@ This paper thought there were lots of fake "state of the art", so it gave a modu
 </details>
 
 <details>
-<summary> <b>[Uread][Using Image Sequences for Long-Term Visual Localization]</b> Erik Stenborg, Torsten Sattler and Lars Hammarstrand. 3DV, 2020. <a href="https://github.com/rulllars/SequentialVisualLocalization">[Code]</a> </summary>
+<summary> <b>[Unpublished][Using Image Sequences for Long-Term Visual Localization]</b> Erik Stenborg, Torsten Sattler and Lars Hammarstrand. 3DV, 2020. <a href="https://github.com/rulllars/SequentialVisualLocalization">[Code]</a> </summary>
 
 </details>
 
@@ -151,14 +151,15 @@ A detailed survey for image retrieval but more focused on localization. And this
 </details>
 
 <h1 id="Pose">Pose Estimation</h1>
-<details>
-<summary> <b>[DSAC - Differentiable RANSAC for Camera Localization]</b>E. Brachmann. CVPR, 2017. </summary>
-propose Differentiable Sample Consensus and make RANSAC method available for camera localization in an end-to-end-trained deep learning pipeline
-</details>
 
 <details>
 <summary> <b>[Fixing the Locally Optimized RANSAC]</b>  Karel Lebeda. BMVC, 2012. </summary>
-ad
+
+</details>
+
+<details>
+<summary> <b>[DSAC - Differentiable RANSAC for Camera Localization]</b>E. Brachmann. CVPR, 2017. </summary>
+propose Differentiable Sample Consensus and make RANSAC method available for camera localization in an end-to-end-trained deep learning pipeline
 </details>
 
 <details>
