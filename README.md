@@ -219,10 +219,6 @@ Using colmap to do sparse reconstruction, using deep learning methods to do dens
 </details>
 
 <details>
-  <summary> <b>[NetVLAD: CNN architecture for weakly supervised place recognition]</b> R. Arandjelovic. CVPR, 2016. </summary>
-</details>
-
-<details>
   <summary> <b>[Three things evereyone should know to improve object retrieval]</b> R. Arandjelovic. CVPR, 2012. </summary>
 </details>
 
@@ -242,9 +238,6 @@ Using colmap to do sparse reconstruction, using deep learning methods to do dens
   <summary> <b>[Discriminative Learning of Local Image Descriptors]</b> TPAMI, 2011.</summary>
 </details>
 
-<details>
-  <summary> <b>[Deep Image Retrieval: Learning global representations for image search]</b> A. Gordo. arkiv, 2016. </summary>
-</details>
 
 <details>
   <summary> <b>[MatchNet: Unifying feature and metric learning for patch-based matching]</b>X. Han. CVPR, 2015. </summary>
