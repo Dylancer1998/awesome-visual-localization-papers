@@ -154,7 +154,7 @@ A detailed survey for image retrieval but more focused on localization. And this
 
 <details>
 <summary> <b>[Fixing the Locally Optimized RANSAC]</b>  Karel Lebeda. BMVC, 2012. </summary>
-
+Lo-RANSAC, which colmap used.
 </details>
 
 <details>
