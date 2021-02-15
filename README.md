@@ -82,7 +82,9 @@ with a Generative Feature Model for Object Retrieval]</b> Chum, O. ICCV, 2007. [
 
 
 <h1 id="Fusion">Multi-sensors Fusion</h1>
+
 <h2 id="Fusion with IMU">Fusion with IMU</h2>
+
 - <b>[DARNavi: An Indoor-Outdoor Immersive Navigation System with Augmented Reality]</b>Didi Chuxing. CVPR, 2020. [**[paper]**](https://**paper**.nweon.com/2688)
 
 <h2 id="Fusion with GPS">Fusion with GPS</h2>
