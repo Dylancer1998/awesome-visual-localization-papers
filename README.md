@@ -7,9 +7,9 @@ The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) fram
 
 <h1 id="Surveys">Survey papers</h1>
 
-<details>
-<summary> <b>[Image-based camera localization: an overview]</b> Yihong Wu. Visual Computing for Industry, Biomedicine, and Art, 2018. </summary>
-</details>
+- <b>[Image-based camera localization: an overview]</b> Yihong Wu. Visual Computing for Industry, Biomedicine, and Art, 2018. <a href="https://arxiv.org/abs/1610.03660">[paper]</a> 
+- 
+
 
 
 <h1 id="system">System</h1>
@@ -278,3 +278,9 @@ Using colmap to do sparse reconstruction, using deep learning methods to do dens
 [ACNe: Attentive Context Normalization for Robust PermutationEquivariant Learning] Sun, W. CVPR, 2020.
 [Is there anything new to say about SIFT matching?]Fabio Bellavia. IJCV, 2020.
 [Learning to Find Good Correspondences]Kwang Moo Yi. CVPR, 2018, oral.
+LM-Reloc: Levenberg-Marquardt Based Direct Visual Relocalization
+https://arxiv.org/abs/2010.06323
+
+
+
+
