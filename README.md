@@ -40,7 +40,7 @@ The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) fram
 
 <h1 id="Retrieval">Retrieval Methods</h1>
 
-- [**[Visual Categorization with Bags of Keypoints]**](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/csurka-eccv-04.pdf) G. Csurka. ECCV, 2004. 
+- **[Visual Categorization with Bags of Keypoints]** G. Csurka. ECCV, 2004. [[paper]](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/csurka-eccv-04.pdf)
 
 - <b>[Total Recall: Automatic Query Expansion
 with a Generative Feature Model for Object Retrieval]</b> Chum, O. ICCV, 2007. [[paper]](https://www.robots.ox.ac.uk/~vgg/publications/papers/chum07b.pdf)
