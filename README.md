@@ -95,7 +95,7 @@ with a Generative Feature Model for Object Retrieval]</b> Chum, O. ICCV, 2007. [
 
 - <b>[Intermittent GPS-aided VIO: Online Initialization and Calibration]</b> Woosik Lee. ICRA, 2020. [**[paper]**](https://ieeexplore.ieee.org/document/9197029)
 
-- <b>[Vins Fusion —— A General Optimization-based Framework for Global
+- <b>[Vins Fusion — A General Optimization-based Framework for Global
 Pose Estimation with Multiple Sensors]</b> Tong Qin. [**[paper]**](https://arxiv.org/abs/1901.03642)
 
 
