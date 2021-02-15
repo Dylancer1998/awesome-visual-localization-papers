@@ -100,7 +100,6 @@ Pose Estimation with Multiple Sensors]</b> Tong Qin. [**[paper]**](https://arxiv
 
 
 
-
 <h1 id="SLAM">SLAM</h1>
 
 - <b>[Neural Topological SLAM for Visual Navigation]</b> Devendra Singh Chaplot. CVPR, 2020. [**[paper]**](https://arxiv.org/abs/2005.12256)
@@ -150,7 +149,7 @@ Pose Estimation with Multiple Sensors]</b> Tong Qin. [**[paper]**](https://arxiv
 
 - <b>[Learning to Find Good Correspondences]</b> Kwang Moo Yi. CVPR, 2018, oral.
 
-- <b> [LM-Reloc: Levenberg-Marquardt Based Direct Visual Relocalization] </b> **[paper]**(https://arxiv.org/abs/2010.06323)
+- <b> [LM-Reloc: Levenberg-Marquardt Based Direct Visual Relocalization] </b> [**[paper]**](https://arxiv.org/abs/2010.06323)
 
 
 
