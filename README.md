@@ -28,6 +28,9 @@ The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) fram
 
 - <b>[Using Image Sequences for Long-Term Visual Localization]</b> Erik Stenborg, Torsten Sattler and Lars Hammarstrand. 3DV, 2020. [**[paper]**](https://ieeexplore.ieee.org/document/9320360) [**[code]**](https://github.com/rulllars/SequentialVisualLocalization)
 
+- **[GN-Net: The Gauss-Newton Loss for Multi-Weather Relocaliza-tion]** L. von Stumberg, P. Wenzel, Q. Khan, and D. Cremers. 2020, ICRA. [**[paper]**](https://arxiv.org/abs/1904.11932) [**[code]**](https://github.com/Artisense-ai/GN-Net-Benchmark)
+
+- **[LM-Reloc: Levenberg-Marquardt Based Direct Visual Relocalization]** Lukas von Stumberg, Patrick Wenzel, Nan Yang, Daniel Cremers. 2020, 3DV.</b> [**[paper]**](https://arxiv.org/abs/2010.06323)
 
 <h1 id="FeatureExtration">Feature Extracting</h1>
 
@@ -149,7 +152,6 @@ Pose Estimation with Multiple Sensors]</b> Tong Qin. [**[paper]**](https://arxiv
 
 - <b>[Learning to Find Good Correspondences]</b> Kwang Moo Yi. CVPR, 2018, oral.
 
-- <b> [LM-Reloc: Levenberg-Marquardt Based Direct Visual Relocalization] </b> [**[paper]**](https://arxiv.org/abs/2010.06323)
 
 
 
