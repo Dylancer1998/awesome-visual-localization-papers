@@ -141,7 +141,7 @@ Pose Estimation with Multiple Sensors]** Tong Qin. [**[paper]**](https://arxiv.o
 
 - **[Semantic Visual Localization]** J. L. Schonberger. CVPR, 2018. 
 
-- **[Camera Pose Voting for Large-Scale Image-Based Localization]** B. Zeisl. ICCV, 2015.. 
+- **[Camera Pose Voting for Large-Scale Image-Based Localization]** B. Zeisl. ICCV, 2015.
 
 - **[ASLFeat: Learning Local Features of Accurate Shape and Localization]** Zixin, Lup. CVPR, 2020. 
 
