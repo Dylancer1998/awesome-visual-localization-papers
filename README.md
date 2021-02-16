@@ -135,7 +135,7 @@ Pose Estimation with Multiple Sensors]** Tong Qin. [**[paper]**](https://arxiv.o
 
 - **[Comparative evaluation of binary features]** J. Heinly. ECCV. 
 
-- **[PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization]** A. Kendall, M. ICCV, 2015. -
+- **[PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization]** A. Kendall, M. ICCV, 2015.
 
 - **[LIFT: Learned Invariant Feature Transform]** M.Kwang. ECCV, 2016.
 
