@@ -6,11 +6,20 @@ The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) fram
 
 Feel free to make a PR or contribute. :smile:
 
-**目录**
+--- 
 
-<a href="#FeatureExtration">`survey`</a>
+### Table of Contents
+- <a href="#FeatureExtration"> survey</a>
+- <a href="#system">system</a>
+- <a href="#FeatureExtration">feature extraction</a>
+- <a href="#FeatureMatch">feature match</a>
+- <a href="#Retrieval">retrieval</a>
+- <a href="#Pose">robust pose estimation</a>
+- <a href="#Fusion">multi-sensors fusion</a>
+- <a href="#SLAM ">slam</a>
+- <a href="#SfM ">sfm</a>
+- <a href="#Wait ">waiting to sort</a>
 
-<a href="#system">`system`</a>
 
 --- 
 
@@ -87,7 +96,7 @@ with a Generative Feature Model for Object Retrieval]** Chum, O. ICCV, 2007. [**
 
 - **[Benchmarking Image Retrieval for Visual Localization]** Noé Pion,..., Torsten Sattler. 3DV, 2020. [**[paper]**](https://arxiv.org/abs/2011.11946) <a href="https://github.com/naver/kapture-localization">**[code]**</a> 
 
-<h1 id="Pose">Pose Estimation</h1>
+<h1 id="Pose">Robust Pose Estimation</h1>
 
 - **[Fixing the Locally Optimized RANSAC]**  Karel Lebeda. BMVC, 2012. [**[paper]**](http://www.bmva.org/bmvc/2012/BMVC/**paper**095/**paper**095.pdf)
 
