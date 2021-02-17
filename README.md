@@ -53,6 +53,8 @@ Feel free to make a PR or contribute. :smile:
 
 <h1 id="FeatureExtration">Feature Extracting</h1>
 
+- **[Learning Feature Descriptors using Camera Pose Supervision]** Qianqian Wang. ECCV, 2020(oral). [**[paper]**](https://arxiv.org/abs/2004.13324) [**[code]**](https://github.com/qianqianwang68/caps)
+
 <h1 id="FeatureMatch">Feature Matching</h1>
 
 - **[Learning to Find Good Correspondences]** Kwang Moo Yi. CVPR, 2018, oral. [**[paper]**](https://arxiv.org/abs/1711.05971) [**[code]**](https://github.com/vcg-uvic/learned-correspondence-release)
@@ -60,8 +62,6 @@ Feel free to make a PR or contribute. :smile:
 - **[Is there anything new to say about SIFT matching?]** Fabio Bellavia. IJCV, 2020. [**[paper]**](https://flore.unifi.it/bitstream/2158/1182190/1/ijcv.pdf)
 
 - **[SuperGlue: Learning Feature Matching with Graph Neural Networks]** Paul-Edouard Sarlin. CVPR, 2020. [**[paper]**](https://arxiv.org/abs/1911.11763) [**[code]**](https://github.com/magicleap/SuperGluePretrainedNetwork) 
-
-- **[Learning Feature Descriptors using Camera Pose Supervision]** Qianqian Wang. ECCV, 2020(oral). [**[paper]**](https://arxiv.org/abs/2004.13324) [**[code]**](https://github.com/qianqianwang68/caps)
 
 
 <h1 id="Retrieval">Retrieval Methods</h1>
