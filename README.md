@@ -31,13 +31,13 @@ The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) fram
 
 - **[Using Image Sequences for Long-Term Visual Localization]** Erik Stenborg, Torsten Sattler and Lars Hammarstrand. 3DV, 2020. [**[paper]**](https://ieeexplore.ieee.org/document/9320360) [**[code]**](https://github.com/rulllars/SequentialVisualLocalization)
 
-- **[LM-Reloc: Levenberg-Marquardt Based Direct Visual Relocalization]** Lukas von Stumberg, Patrick Wenzel, Nan Yang, Daniel Cremers. 3DV, 2020.** [**[paper]**](https://arxiv.org/abs/2010.06323)
+- **[LM-Reloc: Levenberg-Marquardt Based Direct Visual Relocalization]** Lukas von Stumberg, Patrick Wenzel, Nan Yang, Daniel Cremers. 3DV, 2020. [**[paper]**](https://arxiv.org/abs/2010.06323)
 
 <h1 id="FeatureExtration">Feature Extracting</h1>
 
 <h1 id="FeatureMatch">Feature Matching</h1>
 
-- **[SuperGlue: Learning Feature Matching with Graph Neural Networks]  ** Paul-Edouard Sarlin. CVPR, 2020. [**[paper]**](https://arxiv.org/abs/1911.11763) [**[code]**](https://github.com/magicleap/SuperGluePretrainedNetwork) 
+- **[SuperGlue: Learning Feature Matching with Graph Neural Networks]** Paul-Edouard Sarlin. CVPR, 2020. [**[paper]**](https://arxiv.org/abs/1911.11763) [**[code]**](https://github.com/magicleap/SuperGluePretrainedNetwork) 
 
 - **[Learning Feature Descriptors using Camera Pose Supervision]  ** Qianqian Wang. ECCV, 2020(oral). [**[paper]**](https://arxiv.org/abs/2004.13324) [**[code]**](https://github.com/qianqianwang68/caps)
 
@@ -80,7 +80,7 @@ with a Generative Feature Model for Object Retrieval]** Chum, O. ICCV, 2007. [**
 
 - **[Fixing the Locally Optimized RANSAC]**  Karel Lebeda. BMVC, 2012. [**[paper]**](http://www.bmva.org/bmvc/2012/BMVC/**paper**095/**paper**095.pdf)
 
-- **[DSAC - Differentiable RANSAC for Camera Localization]**E. Brachmann. CVPR, 2017. [**[paper]**](https://arxiv.org/abs/1611.05705)
+- **[DSAC - Differentiable RANSAC for Camera Localization]** E. Brachmann. CVPR, 2017. [**[paper]**](https://arxiv.org/abs/1611.05705)
 
 - **[MAGSAC: marginalizing sample consensus]**  Barath, D. CVPR, 2019. [**[paper]**](https://arxiv.org/abs/1803.07469)
 
@@ -89,7 +89,7 @@ with a Generative Feature Model for Object Retrieval]** Chum, O. ICCV, 2007. [**
 
 <h2 id="Fusion with IMU">Fusion with IMU</h2>
 
-- **[DARNavi: An Indoor-Outdoor Immersive Navigation System with Augmented Reality]**Didi Chuxing. CVPR, 2020. [**[paper]**](https://**paper**.nweon.com/2688)
+- **[DARNavi: An Indoor-Outdoor Immersive Navigation System with Augmented Reality]** Didi Chuxing. CVPR, 2020. [**[paper]**](https://**paper**.nweon.com/2688)
 
 <h2 id="Fusion with GPS">Fusion with GPS</h2>
 
@@ -151,8 +151,7 @@ Pose Estimation with Multiple Sensors]** Tong Qin. [**[paper]**](https://arxiv.o
 
 - **[Is there anything new to say about SIFT matching?]** Fabio Bellavia. IJCV, 2020.
 
-- **[Learning to Find Good Correspondences]** Kwang Moo Yi. CVPR, 2018, oral.
-
+- **[Learning to Find Good Correspondences]** Kwang Moo Yi. CVPR, 2018, oral. [**[paper]**](https://arxiv.org/abs/1711.05971) [**[code]**](https://github.com/vcg-uvic/learned-correspondence-release)
 
 
 
