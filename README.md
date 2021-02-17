@@ -4,6 +4,9 @@ Contributed by Dehao Zhang.
 
 The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) frame in the coordinate system given by the prior model of the world.  The most related academic topics are SLAM and SfM and it's widely applied in AR, Robotic, etc.
 
+Feel free to make a PR or contribute. :smile:
+
+--- 
 
 <h1 id="Surveys">Survey</h1>
 
@@ -37,9 +40,11 @@ The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) fram
 
 <h1 id="FeatureMatch">Feature Matching</h1>
 
+- **[Learning to Find Good Correspondences]** Kwang Moo Yi. CVPR, 2018, oral. [**[paper]**](https://arxiv.org/abs/1711.05971) [**[code]**](https://github.com/vcg-uvic/learned-correspondence-release)
+
 - **[SuperGlue: Learning Feature Matching with Graph Neural Networks]** Paul-Edouard Sarlin. CVPR, 2020. [**[paper]**](https://arxiv.org/abs/1911.11763) [**[code]**](https://github.com/magicleap/SuperGluePretrainedNetwork) 
 
-- **[Learning Feature Descriptors using Camera Pose Supervision]  ** Qianqian Wang. ECCV, 2020(oral). [**[paper]**](https://arxiv.org/abs/2004.13324) [**[code]**](https://github.com/qianqianwang68/caps)
+- **[Learning Feature Descriptors using Camera Pose Supervision]** Qianqian Wang. ECCV, 2020(oral). [**[paper]**](https://arxiv.org/abs/2004.13324) [**[code]**](https://github.com/qianqianwang68/caps)
 
 
 <h1 id="Retrieval">Retrieval Methods</h1>
@@ -57,7 +62,7 @@ with a Generative Feature Model for Object Retrieval]** Chum, O. ICCV, 2007. [**
 
 - **[Improving image-based localization by active correspondence search]** ECCV, 2012. [**[paper]**](https://graphics.rwth-aachen.de/media/**paper**s/sattler_eccv12_preprint_1.pdf)
 
-- ** [Aggregating Deep Convolutional Features for Image Retrieval]** A. Babenko and V. Lempitsky. ICCV, 2015. [**[paper]**](https://arxiv.org/abs/1510.07493)
+- **[Aggregating Deep Convolutional Features for Image Retrieval]** A. Babenko and V. Lempitsky. ICCV, 2015. [**[paper]**](https://arxiv.org/abs/1510.07493)
 
 - **[A Vote-and-Verify Strategy for Fast Spatial Verification in Image Retrieval]** Johannes L. Sch¨onberger. ACCV, 2016. [**[paper]**](https://frahm.web.unc.edu/wp-content/uploads/sites/6231/2016/06/schoenberger2016vote.pdf) [**[code]**](https://frahm.web.unc.edu/wp-content/uploads/sites/6231/2016/06/schoenberger2016vote.pdf)
 
@@ -150,8 +155,6 @@ Pose Estimation with Multiple Sensors]** Tong Qin. [**[paper]**](https://arxiv.o
 - **[ACNe: Attentive Context Normalization for Robust PermutationEquivariant Learning]** Sun, W. CVPR, 2020.
 
 - **[Is there anything new to say about SIFT matching?]** Fabio Bellavia. IJCV, 2020.
-
-- **[Learning to Find Good Correspondences]** Kwang Moo Yi. CVPR, 2018, oral. [**[paper]**](https://arxiv.org/abs/1711.05971) [**[code]**](https://github.com/vcg-uvic/learned-correspondence-release)
 
 
 
