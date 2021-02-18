@@ -53,7 +53,7 @@ Feel free to make a PR or contribute. :smile:
 
 <h1 id="FeatureExtration">Feature Extracting</h1>
 
-- **[Learning Feature Descriptors using Camera Pose Supervision]** Qianqian Wang. ECCV, 2020(oral). [**[paper]**](https://arxiv.org/abs/2004.13324) [**[code]**](https://github.com/qianqianwang68/caps)
+- **[Learning Feature Descriptors using Camera Pose Supervision]** Qianqian Wang. ECCV, 2020, oral. [**[paper]**](https://arxiv.org/abs/2004.13324) [**[code]**](https://github.com/qianqianwang68/caps)
 
 <h1 id="FeatureMatch">Feature Matching</h1>
 
