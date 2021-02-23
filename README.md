@@ -59,6 +59,8 @@ Feel free to make a PR or contribute. :smile:
 
 - **[Learning to Find Good Correspondences]** Kwang Moo Yi. CVPR, 2018, oral. [**[paper]**](https://arxiv.org/abs/1711.05971) [**[code]**](https://github.com/vcg-uvic/learned-correspondence-release)
 
+- **[ACNe: Attentive Context Normalization for Robust PermutationEquivariant Learning]** Sun, W. CVPR, 2020. [**[paper]**](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_ACNe_Attentive_Context_Normalization_for_Robust_Permutation-Equivariant_Learning_CVPR_2020_paper.pdf)[**[code]**](https://github.com/vcg-uvic/acne)
+
 - **[Is there anything new to say about SIFT matching?]** Fabio Bellavia. IJCV, 2020. [**[paper]**](https://flore.unifi.it/bitstream/2158/1182190/1/ijcv.pdf)
 
 - **[SuperGlue: Learning Feature Matching with Graph Neural Networks]** Paul-Edouard Sarlin. CVPR, 2020. [**[paper]**](https://arxiv.org/abs/1911.11763) [**[code]**](https://github.com/magicleap/SuperGluePretrainedNetwork) 
@@ -169,7 +171,7 @@ Pose Estimation with Multiple Sensors]** Tong Qin. [**[paper]**](https://arxiv.o
 
 - **[City-Scale Localization for Cameras with Known Vertical Direction]** Linus Svarm. TAPMI, 2016. 
 
-- **[ACNe: Attentive Context Normalization for Robust PermutationEquivariant Learning]** Sun, W. CVPR, 2020.
+
 
 
 
