@@ -55,6 +55,8 @@ Feel free to make a PR or contribute. :smile:
 
 - **[Learning Feature Descriptors using Camera Pose Supervision]** Qianqian Wang. ECCV, 2020, oral. [**[paper]**](https://arxiv.org/abs/2004.13324) [**[code]**](https://github.com/qianqianwang68/caps)
 
+- **[ASLFeat: Learning Local Features of Accurate Shape and Localization]** Zixin, Lup. CVPR, 2020. [**[**paper**]**](https://arxiv.org/pdf/2003.10071.pdf) [**[**code**]**](https://github.com/lzx551402/ASLFeat)
+
 <h1 id="FeatureMatch">Feature Matching</h1>
 
 - **[Learning to Find Good Correspondences]** Kwang Moo Yi. CVPR, 2018, oral. [**[paper]**](https://arxiv.org/abs/1711.05971) [**[code]**](https://github.com/vcg-uvic/learned-correspondence-release)
@@ -167,9 +169,7 @@ Pose Estimation with Multiple Sensors]** Tong Qin. [**[paper]**](https://arxiv.o
 
 - **[Semantic Visual Localization]** J. L. Schonberger. CVPR, 2018. 
 
-- **[Camera Pose Voting for Large-Scale Image-Based Localization]** B. Zeisl. ICCV, 2015.
-
-- **[ASLFeat: Learning Local Features of Accurate Shape and Localization]** Zixin, Lup. CVPR, 2020. 
+- **[Camera Pose Voting for Large-Scale Image-Based Localization]** B. Zeisl, T. Sattler. ICCV, 2015. [**[**paper**]**](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zeisl_Camera_Pose_Voting_ICCV_2015_paper.pdf)
 
 - **[City-Scale Localization for Cameras with Known Vertical Direction]** Linus Svarm. TAPMI, 2016. 
 
