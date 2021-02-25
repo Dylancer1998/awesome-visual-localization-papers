@@ -108,6 +108,8 @@ with a Generative Feature Model for Object Retrieval]** Chum, O. ICCV, 2007. [**
 
 - **[Fixing the Locally Optimized RANSAC]**  Karel Lebeda. BMVC, 2012. [**[paper]**](http://www.bmva.org/bmvc/2012/BMVC/**paper**095/**paper**095.pdf)
 
+- **[Camera Pose Voting for Large-Scale Image-Based Localization]** B. Zeisl, T. Sattler. ICCV, 2015. [**[**paper**]**](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zeisl_Camera_Pose_Voting_ICCV_2015_paper.pdf)
+
 - **[DSAC - Differentiable RANSAC for Camera Localization]** E. Brachmann. CVPR, 2017. [**[paper]**](https://arxiv.org/abs/1611.05705)
 
 - **[MAGSAC: marginalizing sample consensus]**  Barath, D. CVPR, 2019. [**[paper]**](https://arxiv.org/abs/1803.07469)
@@ -168,8 +170,6 @@ Pose Estimation with Multiple Sensors]** Tong Qin. [**[paper]**](https://arxiv.o
 - **[LIFT: Learned Invariant Feature Transform]** M.Kwang. ECCV, 2016.
 
 - **[Semantic Visual Localization]** J. L. Schonberger. CVPR, 2018. 
-
-- **[Camera Pose Voting for Large-Scale Image-Based Localization]** B. Zeisl, T. Sattler. ICCV, 2015. [**[**paper**]**](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zeisl_Camera_Pose_Voting_ICCV_2015_paper.pdf)
 
 - **[City-Scale Localization for Cameras with Known Vertical Direction]** Linus Svarm. TAPMI, 2016. 
 
