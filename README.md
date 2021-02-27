@@ -1,6 +1,6 @@
 # Visual-Based-Localization-Papers
 
-Contributed by Dehao Zhang.
+**Contributed by Dehao Zhang.**
 
 The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) frame in the coordinate system given by the prior model of the world.  The most related academic topics are SLAM and SfM and it's widely applied in AR, Robotic, etc.
 
@@ -56,6 +56,8 @@ Feel free to make a PR or contribute. :smile:
 - **[Learning Feature Descriptors using Camera Pose Supervision]** Qianqian Wang. ECCV, 2020, oral. [**[paper]**](https://arxiv.org/abs/2004.13324) [**[code]**](https://github.com/qianqianwang68/caps)
 
 - **[ASLFeat: Learning Local Features of Accurate Shape and Localization]** Zixin, Lup. CVPR, 2020. [**[**paper**]**](https://arxiv.org/pdf/2003.10071.pdf) [**[**code**]**](https://github.com/lzx551402/ASLFeat)
+
+- **[Semantic Visual Localization]** J. L. Schonberger. CVPR, 2018. [**[paper]**](https://arxiv.org/abs/1712.05773)
 
 <h1 id="FeatureMatch">Feature Matching</h1>
 
@@ -168,8 +170,6 @@ Pose Estimation with Multiple Sensors]** Tong Qin. [**[paper]**](https://arxiv.o
 - **[PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization]** A. Kendall, M. ICCV, 2015.
 
 - **[LIFT: Learned Invariant Feature Transform]** M.Kwang. ECCV, 2016.
-
-- **[Semantic Visual Localization]** J. L. Schonberger. CVPR, 2018. 
 
 - **[City-Scale Localization for Cameras with Known Vertical Direction]** Linus Svarm. TAPMI, 2016. 
 
