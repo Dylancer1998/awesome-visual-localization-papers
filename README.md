@@ -32,10 +32,9 @@ Feel free to make a PR or contribute. :smile:
 
 - **[Wide area localization on mobile phones]** Clemens Arth. ISMAR, 2009. [**[paper]**](https://www.researchgate.net/publication/221221483_Wide_Area_Localization_on_Mobile_Phones)
 
-- **[Real-time self-localization from panoramic images on mobile devices]** Clemens Arth. ISMAR, 2011. [**[paper]**](https://ieeexplore.ieee.org/document/6162870)
-
 - **[Parallel Tracking and Mapping on a Camera Phone]** ISMAR, 2009. [**[paper]**](https://ieeexplore.ieee.org/document/5336495)
 
+- **[Real-time self-localization from panoramic images on mobile devices]** Clemens Arth. ISMAR, 2011. [**[paper]**](https://ieeexplore.ieee.org/document/6162870)
 
 - **[Scalable 6-DOF Localization on Mobile Devices]** Iven Middelberg, Torsten Sattler. ECCV, 2014. [**[paper]**](https://www.graphics.rwth-aachen.de/media/**paper**s/ECCV14_preprint.pdf)
 
@@ -76,8 +75,7 @@ Feel free to make a PR or contribute. :smile:
 
 - **[Visual Categorization with Bags of Keypoints]** G. Csurka. ECCV, 2004. [**[paper]**](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/csurka-eccv-04.pdf)
 
-- **[Total Recall: Automatic Query Expansion
-with a Generative Feature Model for Object Retrieval]** Chum, O. ICCV, 2007. [**[paper]**](https://www.robots.ox.ac.uk/~vgg/publications/**paper**s/chum07b.pdf)
+- **[Total Recall: Automatic Query Expansion with a Generative Feature Model for Object Retrieval]** Chum, O. ICCV, 2007. [**[paper]**](https://www.robots.ox.ac.uk/~vgg/publications/**paper**s/chum07b.pdf)
 
 - **[Fisher Kernels on Visual Vocabularies for Image Categorization]** F. Perronnin and C. Dance. CVPR, 2007. [**[paper]**](https://ieeexplore.ieee.org/document/4270291)
 
@@ -111,6 +109,8 @@ with a Generative Feature Model for Object Retrieval]** Chum, O. ICCV, 2007. [**
 - **[Fixing the Locally Optimized RANSAC]**  Karel Lebeda. BMVC, 2012. [**[paper]**](http://www.bmva.org/bmvc/2012/BMVC/**paper**095/**paper**095.pdf)
 
 - **[Camera Pose Voting for Large-Scale Image-Based Localization]** B. Zeisl, T. Sattler. ICCV, 2015. [**[**paper**]**](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zeisl_Camera_Pose_Voting_ICCV_2015_paper.pdf)
+
+- **[City-Scale Localization for Cameras with Known Vertical Direction]** Linus Svarm. TPAMI, 2016. [**[paper]**](http://www1.maths.lth.se/matematiklth/vision/publdb/reports/pdf/svarm-enqvist-etal-pami-16.pdf) 
 
 - **[DSAC - Differentiable RANSAC for Camera Localization]** E. Brachmann. CVPR, 2017. [**[paper]**](https://arxiv.org/abs/1611.05705)
 
@@ -170,8 +170,6 @@ Pose Estimation with Multiple Sensors]** Tong Qin. [**[paper]**](https://arxiv.o
 - **[PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization]** A. Kendall, M. ICCV, 2015.
 
 - **[LIFT: Learned Invariant Feature Transform]** M.Kwang. ECCV, 2016.
-
-- **[City-Scale Localization for Cameras with Known Vertical Direction]** Linus Svarm. TAPMI, 2016. 
 
 
 
