@@ -50,6 +50,8 @@ Feel free to make a PR or contribute. :smile:
 
 - **[LM-Reloc: Levenberg-Marquardt Based Direct Visual Relocalization]** Lukas von Stumberg, Patrick Wenzel, Nan Yang, Daniel Cremers. 3DV, 2020. [**[paper]**](https://arxiv.org/abs/2010.06323)
 
+- **[KFNet: Learning Temporal Camera Relocalization using Kalman Filtering]** Lei Zhou, Zixin Luo, Tianwei Shen... CVPR, 2020 [**[paper]**](https://arxiv.org/pdf/2003.10629.pdf)
+
 <h1 id="FeatureExtration">Feature Extracting</h1>
 
 - **[Learning Feature Descriptors using Camera Pose Supervision]** Qianqian Wang. ECCV, 2020, oral. [**[paper]**](https://arxiv.org/abs/2004.13324) [**[code]**](https://github.com/qianqianwang68/caps)
