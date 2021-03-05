@@ -60,6 +60,11 @@ Feel free to make a PR or contribute. :smile:
 
 - **[Semantic Visual Localization]** J. L. Schonberger. CVPR, 2018. [**[paper]**](https://arxiv.org/abs/1712.05773)
 
+<h1 id="direct method">Direct Method</h1>
+
+- **[PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization]** A. Kendall, M. ICCV, 2015. [**[code]**](http://mi.eng.cam.ac.uk/projects/relocalisation/)[**[paper]**](https://arxiv.org/pdf/1505.07427.pdf)
+
+
 <h1 id="FeatureMatch">Feature Matching</h1>
 
 - **[Learning to Find Good Correspondences]** Kwang Moo Yi. CVPR, 2018, oral. [**[paper]**](https://arxiv.org/abs/1711.05971) [**[code]**](https://github.com/vcg-uvic/learned-correspondence-release)
@@ -164,12 +169,9 @@ Pose Estimation with Multiple Sensors]** Tong Qin. [**[paper]**](https://arxiv.o
 
 - **[Discriminative Learning of Local Image Descriptors]** TPAMI, 2011.
 
-
 - **[MatchNet: Unifying feature and metric learning for patch-based matching]** X. Han. CVPR, 2015. 
 
 - **[Comparative evaluation of binary features]** J. Heinly. ECCV. 
-
-- **[PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization]** A. Kendall, M. ICCV, 2015.
 
 - **[LIFT: Learned Invariant Feature Transform]** M.Kwang. ECCV, 2016.
 
