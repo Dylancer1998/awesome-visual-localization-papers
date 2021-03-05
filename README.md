@@ -11,6 +11,7 @@ Feel free to make a PR or contribute. :smile:
 ### Table of Contents
 - <a href="#FeatureExtration"> survey</a>
 - <a href="#system">system</a>
+- <a href="#DirectMethod">direct methods</a>
 - <a href="#FeatureExtration">feature extraction</a>
 - <a href="#FeatureMatch">feature match</a>
 - <a href="#Retrieval">retrieval</a>
@@ -60,7 +61,7 @@ Feel free to make a PR or contribute. :smile:
 
 - **[Semantic Visual Localization]** J. L. Schonberger. CVPR, 2018. [**[paper]**](https://arxiv.org/abs/1712.05773)
 
-<h1 id="direct method">Direct Method</h1>
+<h1 id="DirectMethod">Direct Method</h1>
 
 - **[PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization]** A. Kendall, M. ICCV, 2015. [**[code]**](http://mi.eng.cam.ac.uk/projects/relocalisation/)[**[paper]**](https://arxiv.org/pdf/1505.07427.pdf)
 
