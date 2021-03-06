@@ -53,6 +53,10 @@ Feel free to make a PR or contribute. :smile:
 
 - **[KFNet: Learning Temporal Camera Relocalization using Kalman Filtering]** Lei Zhou, Zixin Luo, Tianwei Shen... CVPR, 2020 [**[paper]**](https://arxiv.org/pdf/2003.10629.pdf)
 
+<h1 id="DirectMethod">Direct Method</h1>
+
+- **[PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization]** A. Kendall, M. ICCV, 2015. [**[code]**](http://mi.eng.cam.ac.uk/projects/relocalisation/)[**[paper]**](https://arxiv.org/pdf/1505.07427.pdf)
+
 <h1 id="FeatureExtration">Feature Extracting</h1>
 
 - **[Learning Feature Descriptors using Camera Pose Supervision]** Qianqian Wang. ECCV, 2020, oral. [**[paper]**](https://arxiv.org/abs/2004.13324) [**[code]**](https://github.com/qianqianwang68/caps)
@@ -60,10 +64,6 @@ Feel free to make a PR or contribute. :smile:
 - **[ASLFeat: Learning Local Features of Accurate Shape and Localization]** Zixin, Lup. CVPR, 2020. [**[**paper**]**](https://arxiv.org/pdf/2003.10071.pdf) [**[**code**]**](https://github.com/lzx551402/ASLFeat)
 
 - **[Semantic Visual Localization]** J. L. Schonberger. CVPR, 2018. [**[paper]**](https://arxiv.org/abs/1712.05773)
-
-<h1 id="DirectMethod">Direct Method</h1>
-
-- **[PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization]** A. Kendall, M. ICCV, 2015. [**[code]**](http://mi.eng.cam.ac.uk/projects/relocalisation/)[**[paper]**](https://arxiv.org/pdf/1505.07427.pdf)
 
 
 <h1 id="FeatureMatch">Feature Matching</h1>
@@ -120,7 +120,7 @@ Feel free to make a PR or contribute. :smile:
 
 - **[City-Scale Localization for Cameras with Known Vertical Direction]** Linus Svarm. TPAMI, 2016. [**[paper]**](http://www1.maths.lth.se/matematiklth/vision/publdb/reports/pdf/svarm-enqvist-etal-pami-16.pdf) 
 
-- **[DSAC - Differentiable RANSAC for Camera Localization]** E. Brachmann. CVPR, 2017. [**[paper]**](https://arxiv.org/abs/1611.05705)
+- **[DSAC - Differentiable RANSAC for Camera Localization]** E.Brachmann. CVPR, 2017. [**[code]**](https://github.com/cvlab-dresden/DSAC)[**[paper]**](http://www.nowozin.net/sebastian/papers/brachmann2017dsac.pdf)
 
 - **[MAGSAC: marginalizing sample consensus]**  Barath, D. CVPR, 2019. [**[paper]**](https://arxiv.org/abs/1803.07469)
 
@@ -165,8 +165,6 @@ Pose Estimation with Multiple Sensors]** Tong Qin. [**[paper]**](https://arxiv.o
 - **[Learning local feature descriptors with triplets and shallow convolutional neural networks]** V. Balntas. BMVC, 2016. 
 
 - **[Learning 6D Object Pose Estimation Using 3D Objet Coordinates]** E.Brachmann. ECCV, 2014.
-
-- **[DSAC-Differentiable RANSAC for Camera Localization]** E.Brachmann. CVPR, 2017. 
 
 - **[Discriminative Learning of Local Image Descriptors]** TPAMI, 2011.
 
