@@ -53,6 +53,8 @@ Feel free to make a PR or contribute. :smile:
 
 - **[KFNet: Learning Temporal Camera Relocalization using Kalman Filtering]** Lei Zhou, Zixin Luo, Tianwei Shen... CVPR, 2020 [**[paper]**](https://arxiv.org/pdf/2003.10629.pdf)
 
+- **[Robust Neural Routing Through Space Partitions for Camera Relocalizationin Dynamic Indoor Environments]** Siyan Dong, Qingnan Fan... CVPR, 2021, oral [**[paper]**](https://arxiv.org/pdf/2012.04746.pdf)
+
 <h1 id="DirectMethod">Direct Method</h1>
 
 - **[PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization]** A. Kendall, M. ICCV, 2015. [**[code]**](http://mi.eng.cam.ac.uk/projects/relocalisation/)[**[paper]**](https://arxiv.org/pdf/1505.07427.pdf)
@@ -65,6 +67,7 @@ Feel free to make a PR or contribute. :smile:
 
 - **[Semantic Visual Localization]** J. L. Schonberger. CVPR, 2018. [**[paper]**](https://arxiv.org/abs/1712.05773)
 
+- **[FisheyeSuperPoint: Keypoint Detection andDescription Network for Fisheye Images]** Anna Konrad. 2021. [**[paper]**](https://arxiv.org/pdf/2103.00191.pdf)
 
 <h1 id="FeatureMatch">Feature Matching</h1>
 
