@@ -2,7 +2,7 @@
 
 **Contributed by Dehao Zhang.**
 
-The relocalization task aims to estimate the 6-DoF pose of a novel (unseen) frame in the coordinate system given by the prior model of the world.  The most related academic topics are SLAM and SfM and it's widely applied in AR, Robotic, etc.
+The camera re-localization task aims to estimate the 6-DoF pose of a novel (unseen) frame in the coordinate system given by the prior model of the world.  The most related academic topics are SLAM and SfM and it's widely applied in AR, Robotic, etc.
 
 Feel free to make a PR or contribute. :smile:
 
@@ -61,11 +61,11 @@ Feel free to make a PR or contribute. :smile:
 
 <h1 id="FeatureExtration">Feature Extracting</h1>
 
+- **[Semantic Visual Localization]** J. L. Schonberger. CVPR, 2018. [**[paper]**](https://arxiv.org/abs/1712.05773)
+
 - **[Learning Feature Descriptors using Camera Pose Supervision]** Qianqian Wang. ECCV, 2020, oral. [**[paper]**](https://arxiv.org/abs/2004.13324) [**[code]**](https://github.com/qianqianwang68/caps)
 
 - **[ASLFeat: Learning Local Features of Accurate Shape and Localization]** Zixin, Lup. CVPR, 2020. [**[**paper**]**](https://arxiv.org/pdf/2003.10071.pdf) [**[**code**]**](https://github.com/lzx551402/ASLFeat)
-
-- **[Semantic Visual Localization]** J. L. Schonberger. CVPR, 2018. [**[paper]**](https://arxiv.org/abs/1712.05773)
 
 - **[FisheyeSuperPoint: Keypoint Detection andDescription Network for Fisheye Images]** Anna Konrad. 2021. [**[paper]**](https://arxiv.org/pdf/2103.00191.pdf)
 
