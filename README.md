@@ -127,6 +127,8 @@ Feel free to make a PR or contribute. :smile:
 
 - **[MAGSAC: marginalizing sample consensus]**  Barath, D. CVPR, 2019. [**[paper]**](https://arxiv.org/abs/1803.07469)
 
+- **[Learning Bipartite Graph Matching for Robust Visual Localization]**  Hailin Yu, Weicai Ye. ISMAR, 2020. [**[paper]**](http://www.cad.zju.edu.cn/home/gfzhang/papers/BGNet/BGNet.pdf)
+
 
 <h1 id="Fusion">Multi-sensors Fusion</h1>
 
@@ -142,14 +144,12 @@ Feel free to make a PR or contribute. :smile:
 
 - **[Intermittent GPS-aided VIO: Online Initialization and Calibration]** Woosik Lee. ICRA, 2020. [**[paper]**](https://ieeexplore.ieee.org/document/9197029)
 
-- **[Vins Fusion — A General Optimization-based Framework for Global
-Pose Estimation with Multiple Sensors]** Tong Qin. [**[paper]**](https://arxiv.org/abs/1901.03642)
-
+- **[Vins Fusion — A General Optimization-based Framework for Global Pose Estimation with Multiple Sensors]** Tong Qin. [**[paper]**](https://arxiv.org/abs/1901.03642)
 
 
 <h1 id="SLAM">SLAM</h1>
 
-- **[Towards SLAM-based Outdoor Localization usingPoor GPS and 2.5D Building Models]** R.Liu et al. ISMAR, 2019. [**[paper]**](http://www.arth.co.at/data/papers/ismar19_ruyu.pdf)
+- **[Towards SLAM-based Outdoor Localization using Poor GPS and 2.5D Building Models]** R.Liu et al. ISMAR, 2019. [**[code]**](https://github.com/luyujiangmiao/Building-GPS-SLAM) [**[paper]**](http://www.arth.co.at/data/papers/ismar19_ruyu.pdf)
 
 - **[Neural Topological SLAM for Visual Navigation]** Devendra Singh Chaplot. CVPR, 2020. [**[paper]**](https://arxiv.org/abs/2005.12256)
 
@@ -178,9 +178,3 @@ Pose Estimation with Multiple Sensors]** Tong Qin. [**[paper]**](https://arxiv.o
 - **[Comparative evaluation of binary features]** J. Heinly. ECCV. 
 
 - **[LIFT: Learned Invariant Feature Transform]** M.Kwang. ECCV, 2016.
-
-
-
-
-
-
