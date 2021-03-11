@@ -149,6 +149,8 @@ Pose Estimation with Multiple Sensors]** Tong Qin. [**[paper]**](https://arxiv.o
 
 <h1 id="SLAM">SLAM</h1>
 
+- **[Towards SLAM-based Outdoor Localization usingPoor GPS and 2.5D Building Models]** R.Liu et al. ISMAR, 2019. [**[paper]**](http://www.arth.co.at/data/papers/ismar19_ruyu.pdf)
+
 - **[Neural Topological SLAM for Visual Navigation]** Devendra Singh Chaplot. CVPR, 2020. [**[paper]**](https://arxiv.org/abs/2005.12256)
 
 
