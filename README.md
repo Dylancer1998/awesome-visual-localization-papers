@@ -160,6 +160,8 @@ Feel free to make a PR or contribute. :smile:
 
 - **[DeepSFM: Structure From Motion Via Deep Bundle Adjustment]** ECCV 2020. [**[paper]**](https://arxiv.org/abs/1912.09697)
 
+- **[Multi-View Optimization of Local Feature Geometry]** Mihai Dusmanu et al. ECCV 2020. [**[paper]**](https://arxiv.org/pdf/2003.08348v2.pdf)
+
 
 <h1 id="Wait">Waiting to sort</h1>
 
