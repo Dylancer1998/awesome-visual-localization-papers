@@ -1,7 +1,5 @@
 # Visual-Based-Localization-Papers
 
-**Contributed by Dehao Zhang.**
-
 The camera re-localization task aims to estimate the 6-DoF pose of a novel (unseen) frame in the coordinate system given by the prior model of the world.  The most related academic topics are SLAM and SfM and it's widely applied in AR, Robotic, etc.
 
 Feel free to make a PR or contribute. :smile:
@@ -156,11 +154,17 @@ Feel free to make a PR or contribute. :smile:
 
 <h1 id="SfM">SfM</h1>
 
+- **[DPSNet: End-to-end Deep Plane Sweep Stereo]** Sunghoon Im. ICLR, 2019. [**[paper]**](https://arxiv.org/abs/1905.00538)
+
 - **[Consistent Video Depth Estimation]** XUAN LUO. SIGGRAPH 2020. [**[paper]**](https://arxiv.org/abs/2004.15021)
 
 - **[DeepSFM: Structure From Motion Via Deep Bundle Adjustment]** ECCV 2020. [**[paper]**](https://arxiv.org/abs/1912.09697)
 
 - **[Multi-View Optimization of Local Feature Geometry]** Mihai Dusmanu et al. ECCV 2020. [**[paper]**](https://arxiv.org/pdf/2003.08348v2.pdf)
+
+- **[Deepv2d: Video to depth with differentiable structure frommotion]** Zachary Teed, Jia Deng. ICLR, 2020. [**[paper]**](https://iclr.cc/virtual_2020/poster_HJeO7RNKPr.html)
+
+-- **[Hybrid Rotation Averaging: A Fast and Robust Rotation Averaging Approach]** Yu Chen. CVPR, 2021. [**[paper]**](https://arxiv.org/pdf/2101.09116.pdf) [**[code]**](https://github.com/AIBluefisher/GraphOptim)
 
 
 <h1 id="Wait">Waiting to sort</h1>
