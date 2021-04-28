@@ -49,6 +49,8 @@ Feel free to make a PR or contribute. :smile:
 
 - **[LM-Reloc: Levenberg-Marquardt Based Direct Visual Relocalization]** Lukas von Stumberg, Patrick Wenzel, Nan Yang, Daniel Cremers. 3DV, 2020. [**[paper]**](https://arxiv.org/abs/2010.06323)
 
+- **[Efficient 2D-3D Matching for Multi-Camera Visual Localization]** Marcel Geppert, Peidong Liu, Zhaopeng Cui, Marc Pollefeys, Torsten Sattler. ICRL, 2020. [**[paper]**](https://arxiv.org/abs/1809.06445)
+
 - **[KFNet: Learning Temporal Camera Relocalization using Kalman Filtering]** Lei Zhou, Zixin Luo, Tianwei Shen... CVPR, 2020 [**[paper]**](https://arxiv.org/pdf/2003.10629.pdf)
 
 - **[Robust Neural Routing Through Space Partitions for Camera Relocalizationin Dynamic Indoor Environments]** Siyan Dong, Qingnan Fan... CVPR, 2021, oral [**[paper]**](https://arxiv.org/pdf/2012.04746.pdf)
