@@ -166,7 +166,7 @@ Feel free to make a PR or contribute. :smile:
 
 - **[Deepv2d: Video to depth with differentiable structure frommotion]** Zachary Teed, Jia Deng. ICLR, 2020. [**[paper]**](https://iclr.cc/virtual_2020/poster_HJeO7RNKPr.html)
 
--- **[Hybrid Rotation Averaging: A Fast and Robust Rotation Averaging Approach]** Yu Chen. CVPR, 2021. [**[paper]**](https://arxiv.org/pdf/2101.09116.pdf) [**[code]**](https://github.com/AIBluefisher/GraphOptim)
+- **[Hybrid Rotation Averaging: A Fast and Robust Rotation Averaging Approach]** Yu Chen. CVPR, 2021. [**[paper]**](https://arxiv.org/pdf/2101.09116.pdf) [**[code]**](https://github.com/AIBluefisher/GraphOptim)
 
 
 <h1 id="Wait">Waiting to sort</h1>
