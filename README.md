@@ -63,9 +63,13 @@ Feel free to make a PR or contribute. :smile:
 
 - **[Semantic Visual Localization]** J. L. Schonberger. CVPR, 2018. [**[paper]**](https://arxiv.org/abs/1712.05773)
 
+- **[R2D2: Repeatable and Reliable Detector and Descriptor]** Jerome Revaud. NeurIPS, 2019. [**[paper]**](https://arxiv.org/pdf/1906.06195.pdf)[**[code]**](https://github.com/naver/r2d2)
+
 - **[Learning Feature Descriptors using Camera Pose Supervision]** Qianqian Wang. ECCV, 2020, oral. [**[paper]**](https://arxiv.org/abs/2004.13324) [**[code]**](https://github.com/qianqianwang68/caps)
 
 - **[ASLFeat: Learning Local Features of Accurate Shape and Localization]** Zixin, Lup. CVPR, 2020. [**[**paper**]**](https://arxiv.org/pdf/2003.10071.pdf) [**[**code**]**](https://github.com/lzx551402/ASLFeat)
+
+- **[DISK: learning local features with policy gradient]** Michał J. Tyszkiewicz. NeurIPS, 2020. [**[**paper**]**](https://arxiv.org/pdf/2006.13566.pdf) [**[**code**]**](https://github.com/cvlab-epfl/disk)
 
 - **[FisheyeSuperPoint: Keypoint Detection andDescription Network for Fisheye Images]** Anna Konrad. 2021. [**[paper]**](https://arxiv.org/pdf/2103.00191.pdf)
 
@@ -80,6 +84,8 @@ Feel free to make a PR or contribute. :smile:
 - **[Is there anything new to say about SIFT matching?]** Fabio Bellavia. IJCV, 2020. [**[paper]**](https://flore.unifi.it/bitstream/2158/1182190/1/ijcv.pdf)
 
 - **[SuperGlue: Learning Feature Matching with Graph Neural Networks]** Paul-Edouard Sarlin. CVPR, 2020. [**[paper]**](https://arxiv.org/abs/1911.11763) [**[code]**](https://github.com/magicleap/SuperGluePretrainedNetwork) 
+
+- **[LoFTR: Detector-Free Local Feature Matching with Transformers]** Jiaming Sun, Zehong Shen, Yu'ang Wang. CVPR, 2021. [**[paper]**](https://arxiv.org/pdf/2104.00680.pdf) [**[code]**](https://zju3dv.github.io/loftr) 
 
 
 <h1 id="Retrieval">Retrieval Methods</h1>
@@ -164,7 +170,7 @@ Feel free to make a PR or contribute. :smile:
 
 - **[Multi-View Optimization of Local Feature Geometry]** Mihai Dusmanu et al. ECCV 2020. [**[paper]**](https://arxiv.org/pdf/2003.08348v2.pdf)
 
-- **[Deepv2d: Video to depth with differentiable structure frommotion]** Zachary Teed, Jia Deng. ICLR, 2020. [**[paper]**](https://iclr.cc/virtual_2020/poster_HJeO7RNKPr.html)
+- **[Deepv2d: Video to depth with differentiable structure from motion]** Zachary Teed, Jia Deng. ICLR, 2020. [**[paper]**](https://iclr.cc/virtual_2020/poster_HJeO7RNKPr.html)
 
 - **[Hybrid Rotation Averaging: A Fast and Robust Rotation Averaging Approach]** Yu Chen. CVPR, 2021. [**[paper]**](https://arxiv.org/pdf/2101.09116.pdf) [**[code]**](https://github.com/AIBluefisher/GraphOptim)
 
