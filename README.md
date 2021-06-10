@@ -71,6 +71,8 @@ Feel free to make a PR or contribute. :smile:
 
 - **[DISK: learning local features with policy gradient]** Michał J. Tyszkiewicz. NeurIPS, 2020. [**[**paper**]**](https://arxiv.org/pdf/2006.13566.pdf) [**[**code**]**](https://github.com/cvlab-epfl/disk)
 
+- **[Reinforced Feature Points: Optimizing Feature Detection and Description for a High-Level Task]** Aritra Bhowmik... CVPR oral, 2020. [**[paper]**](https://arxiv.org/abs/1912.00623)[**[**code**]**](https://github.com/aritra0593/Reinforced-Feature-Points)
+
 - **[FisheyeSuperPoint: Keypoint Detection andDescription Network for Fisheye Images]** Anna Konrad. 2021. [**[paper]**](https://arxiv.org/pdf/2103.00191.pdf)
 
 <h1 id="FeatureMatch">Feature Matching</h1>
