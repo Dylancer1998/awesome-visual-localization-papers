@@ -85,7 +85,11 @@ Feel free to make a PR or contribute. :smile:
 
 - **[SuperGlue: Learning Feature Matching with Graph Neural Networks]** Paul-Edouard Sarlin. CVPR, 2020. [**[paper]**](https://arxiv.org/abs/1911.11763) [**[code]**](https://github.com/magicleap/SuperGluePretrainedNetwork) 
 
-- **[LoFTR: Detector-Free Local Feature Matching with Transformers]** Jiaming Sun, Zehong Shen, Yu'ang Wang. CVPR, 2021. [**[paper]**](https://arxiv.org/pdf/2104.00680.pdf) [**[code]**](https://zju3dv.github.io/loftr) 
+- **[LoFTR: Detector-Free Local Feature Matching with Transformers]** Jiaming Sun, Zehong Shen, Yu'ang Wang. CVPR, 2021. [**[paper]**](https://arxiv.org/pdf/2104.00680.pdf) [**[code]**](https://zju3dv.github.io/loftr)
+
+- **[COTR: Correspondence Transformer for Matching Across Images]** Wei Jiang, ... [**[paper]**](https://arxiv.org/abs/2103.14167) [**[code]**](https://github.com/ubc-vision/COTR)
+
+- **[Patch2Pix for Accurate Image Correspondence Estimation]** Qunjie Zhou, Torsten Sattle, Laura Leal-Taix ́e. CVPR, 2021. [**[paper]**](https://arxiv.org/pdf/2012.01909.pdf)[**[code]**](https://github.com/GrumpyZhou/patch2pix)
 
 
 <h1 id="Retrieval">Retrieval Methods</h1>
@@ -132,6 +136,12 @@ Feel free to make a PR or contribute. :smile:
 - **[DSAC - Differentiable RANSAC for Camera Localization]** E.Brachmann. CVPR, 2017. [**[code]**](https://github.com/cvlab-dresden/DSAC)[**[paper]**](http://www.nowozin.net/sebastian/papers/brachmann2017dsac.pdf)
 
 - **[MAGSAC: marginalizing sample consensus]**  Barath, D. CVPR, 2019. [**[paper]**](https://arxiv.org/abs/1803.07469)
+
+- **[GC-RANSAC: Graph-Cut RANSAC]**  Daniel Barath, Jiri Matas. CVPR, 2020. [**[paper]**](http://openaccess.thecvf.com/content_cvpr_2018/papers/Barath_Graph-Cut_RANSAC_CVPR_2018_paper.pdf)[**[code]**](https://github.com/ducha-aiki/pydegensac)
+
+- **[AdaLAM: Revisiting Handcrafted Outlier Detection]**  Luca Cavalli... ECCV, 2020. [**[paper]**](https://arxiv.org/abs/2006.04250)[**[code]**](https://github.com/cavalli1234/AdaLAM)
+
+- **[DegenSac]** 2021 [**[code]**](https://github.com/ducha-aiki/pydegensac)
 
 - **[Learning Bipartite Graph Matching for Robust Visual Localization]**  Hailin Yu, Weicai Ye. ISMAR, 2020. [**[paper]**](http://www.cad.zju.edu.cn/home/gfzhang/papers/BGNet/BGNet.pdf)
 
