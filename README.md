@@ -93,6 +93,7 @@ Feel free to make a PR or contribute. :smile:
 
 - **[Patch2Pix for Accurate Image Correspondence Estimation]** Qunjie Zhou, Torsten Sattle, Laura Leal-Taix ́e. CVPR, 2021. [**[paper]**](https://arxiv.org/pdf/2012.01909.pdf)[**[code]**](https://github.com/GrumpyZhou/patch2pix)
 
+- **[DFM: A Performance Baseline for Deep Feature Matching]** Ufuk Efe, Kutalmis Gokalp Ince, A. Aydin Alatan. CVPR, 2021 [**[paper]**](https://openaccess.thecvf.com/content/CVPR2021W/IMW/papers/Efe_DFM_A_Performance_Baseline_for_Deep_Feature_Matching_CVPRW_2021_paper.pdf)
 
 <h1 id="Retrieval">Retrieval Methods</h1>
 
