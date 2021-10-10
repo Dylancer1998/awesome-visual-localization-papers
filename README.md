@@ -89,7 +89,7 @@ Feel free to make a PR or contribute. :smile:
 
 - **[LoFTR: Detector-Free Local Feature Matching with Transformers]** Jiaming Sun, Zehong Shen, Yu'ang Wang. CVPR, 2021. [**[paper]**](https://arxiv.org/pdf/2104.00680.pdf) [**[code]**](https://zju3dv.github.io/loftr)
 
-- **[COTR: Correspondence Transformer for Matching Across Images]** Wei Jiang, ... [**[paper]**](https://arxiv.org/abs/2103.14167) [**[code]**](https://github.com/ubc-vision/COTR)
+- **[COTR: Correspondence Transformer for Matching Across Images]** Wei Jiang. ICCV, 2021. [**[paper]**](https://arxiv.org/abs/2103.14167) [**[code]**](https://github.com/ubc-vision/COTR)
 
 - **[Patch2Pix for Accurate Image Correspondence Estimation]** Qunjie Zhou, Torsten Sattle, Laura Leal-Taix ́e. CVPR, 2021. [**[paper]**](https://arxiv.org/pdf/2012.01909.pdf)[**[code]**](https://github.com/GrumpyZhou/patch2pix)
 
