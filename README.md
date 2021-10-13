@@ -187,6 +187,8 @@ Feel free to make a PR or contribute. :smile:
 
 - **[Hybrid Rotation Averaging: A Fast and Robust Rotation Averaging Approach]** Yu Chen. CVPR, 2021. [**[paper]**](https://arxiv.org/pdf/2101.09116.pdf) [**[code]**](https://github.com/AIBluefisher/GraphOptim)
 
+- **[Pixel-Perfect Structure-from-Motion with Featuremetric Refinement]** Philipp Lindenberger,* Paul-Edouard Sarlin,* Viktor Larsson, Marc Pollefeys. ICCV, oral, 2021. [**[paper]**](https://arxiv.org/abs/2108.08291)[**[code]**](https://github.com/cvg/pixel-perfect-sfm)
+
 
 <h1 id="Wait">Waiting to sort</h1>
 
