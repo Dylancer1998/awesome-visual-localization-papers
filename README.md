@@ -81,7 +81,7 @@ Feel free to make a PR or contribute. :smile:
 
 - **[OANet: Learning Two-View Correspondences and Geometry Using Order-Aware Network]** Zhang, Jiahui and Sun. ICCV, 2019. [**[paper]**](https://arxiv.org/abs/1908.04964) [**[code]**](https://github.com/zjhthu/OANet)
 
-- **[ACNe: Attentive Context Normalization for Robust PermutationEquivariant Learning]** Sun, W. CVPR, 2020. [**[paper]**](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_ACNe_Attentive_Context_Normalization_for_Robust_Permutation-Equivariant_Learning_CVPR_2020_paper.pdf) [**[code]**](https://github.com/vcg-uvic/acne)
+- **[ACNe: Attentive Context Normalization for Robust Permutation Equivariant Learning]** Sun, W. CVPR, 2020. [**[paper]**](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_ACNe_Attentive_Context_Normalization_for_Robust_Permutation-Equivariant_Learning_CVPR_2020_paper.pdf) [**[code]**](https://github.com/vcg-uvic/acne)
 
 - **[Is there anything new to say about SIFT matching?]** Fabio Bellavia. IJCV, 2020. [**[paper]**](https://flore.unifi.it/bitstream/2158/1182190/1/ijcv.pdf)
 
