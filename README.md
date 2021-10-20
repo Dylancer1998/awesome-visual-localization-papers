@@ -95,6 +95,8 @@ Feel free to make a PR or contribute. :smile:
 
 - **[DFM: A Performance Baseline for Deep Feature Matching]** Ufuk Efe, Kutalmis Gokalp Ince, A. Aydin Alatan. CVPR, 2021 [**[paper]**](https://openaccess.thecvf.com/content/CVPR2021W/IMW/papers/Efe_DFM_A_Performance_Baseline_for_Deep_Feature_Matching_CVPRW_2021_paper.pdf)
 
+- **[Back to the Feature: Learning Robust Camera Localization from Pixels to Pose]** Paul-Edouard Sarlin. CVPR, 2021 [**[paper]**](https://arxiv.org/abs/2103.09213) [**[code]**](https://github.com/cvg/pixloc)
+
 <h1 id="Retrieval">Retrieval Methods</h1>
 
 - **[Visual Categorization with Bags of Keypoints]** G. Csurka. ECCV, 2004. [**[paper]**](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/csurka-eccv-04.pdf)
