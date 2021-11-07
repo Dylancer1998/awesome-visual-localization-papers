@@ -176,6 +176,7 @@ Feel free to make a PR or contribute. :smile:
 
 - **[Neural Topological SLAM for Visual Navigation]** Devendra Singh Chaplot. CVPR, 2020. [**[paper]**](https://arxiv.org/abs/2005.12256)
 
+- **[TANDEM: Tracking and Dense Mappingin Real-time using Deep Multi-view Stereo]** Lukas Koestler et al. CoRL, 2021. [**[paper]**](https://openreview.net/pdf?id=FzMHiDesj0I) [**[code]**](https://github.com/tum-vision/tandem)
 
 <h1 id="SfM">SfM</h1>
 
