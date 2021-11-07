@@ -97,6 +97,8 @@ Feel free to make a PR or contribute. :smile:
 
 - **[Back to the Feature: Learning Robust Camera Localization from Pixels to Pose]** Paul-Edouard Sarlin. CVPR, 2021 [**[paper]**](https://arxiv.org/abs/2103.09213) [**[code]**](https://github.com/cvg/pixloc)
 
+- **[Cross-Descriptor Visual Localization and Mapping]** Mihai Dusmanu. ICCV, 2021 [**[paper]**](https://arxiv.org/abs/2012.01377) [**[code]**](https://github.com/mihaidusmanu/cross-descriptor-vis-loc-map)
+
 <h1 id="Retrieval">Retrieval Methods</h1>
 
 - **[Visual Categorization with Bags of Keypoints]** G. Csurka. ECCV, 2004. [**[paper]**](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/csurka-eccv-04.pdf)
