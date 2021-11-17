@@ -85,6 +85,8 @@ Feel free to make a PR or contribute. :smile:
 
 - **[Is there anything new to say about SIFT matching?]** Fabio Bellavia. IJCV, 2020. [**[paper]**](https://flore.unifi.it/bitstream/2158/1182190/1/ijcv.pdf)
 
+- **[Deep  Keypoint-Based  Camera  Pose  Estimation  with  Geometric Constraints]** You-Yi Jau, Rui Zhu. IROS, 2020 [**[paper]**](https://arxiv.org/pdf/2007.15122.pdf) [**[code]**](https://github.com/eric-yyjau/pytorch-deepFEPE)
+
 - **[SuperGlue: Learning Feature Matching with Graph Neural Networks]** Paul-Edouard Sarlin. CVPR, 2020. [**[paper]**](https://arxiv.org/abs/1911.11763) [**[code]**](https://github.com/magicleap/SuperGluePretrainedNetwork) 
 
 - **[LoFTR: Detector-Free Local Feature Matching with Transformers]** Jiaming Sun, Zehong Shen, Yu'ang Wang. CVPR, 2021. [**[paper]**](https://arxiv.org/pdf/2104.00680.pdf) [**[code]**](https://zju3dv.github.io/loftr)
