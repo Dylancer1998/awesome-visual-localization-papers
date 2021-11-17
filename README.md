@@ -75,8 +75,6 @@ Feel free to make a PR or contribute. :smile:
 
 - **[FisheyeSuperPoint: Keypoint Detection andDescription Network for Fisheye Images]** Anna Konrad. 2021. [**[paper]**](https://arxiv.org/pdf/2103.00191.pdf)
 
-- **[Pixel-Perfect Structure-from-Motion with Featuremetric Refinement]** Philipp Lindenberger, Paul-Edouard Sarlin. ICCV oral, 2021. [**[paper]**](https://arxiv.org/abs/2108.08291) [**[code]**](https://github.com/cvg/pixel-perfect-sfm?utm_source=catalyzex.com)
-
 <h1 id="FeatureMatch">Feature Matching</h1>
 
 - **[Learning to Find Good Correspondences]** Kwang Moo Yi. CVPR, 2018, oral. [**[paper]**](https://arxiv.org/abs/1711.05971) [**[code]**](https://github.com/vcg-uvic/learned-correspondence-release)
