@@ -178,7 +178,7 @@ Feel free to make a PR or contribute. :smile:
 
 - **[Neural Topological SLAM for Visual Navigation]** Devendra Singh Chaplot. CVPR, 2020. [**[paper]**](https://arxiv.org/abs/2005.12256)
 
-- **[TANDEM: Tracking and Dense Mappingin Real-time using Deep Multi-view Stereo]** Lukas Koestler et al. CoRL, 2021. [**[paper]**](https://openreview.net/pdf?id=FzMHiDesj0I) [**[code]**](https://github.com/tum-vision/tandem)
+- **[TANDEM: Tracking and Dense Mapping in Real-time using Deep Multi-view Stereo]** Lukas Koestler et al. CoRL, 2021. [**[paper]**](https://openreview.net/pdf?id=FzMHiDesj0I) [**[code]**](https://github.com/tum-vision/tandem)
 
 <h1 id="SfM">SfM</h1>
 
@@ -188,7 +188,7 @@ Feel free to make a PR or contribute. :smile:
 
 - **[DeepSFM: Structure From Motion Via Deep Bundle Adjustment]** ECCV 2020. [**[paper]**](https://arxiv.org/abs/1912.09697)
 
-- **[Multi-View Optimization of Local Feature Geometry]** Mihai Dusmanu et al. ECCV 2020. [**[paper]**](https://arxiv.org/pdf/2003.08348v2.pdf)
+- **[Multi-View Optimization of Local Feature Geometry]** Mihai Dusmanu et al. ECCV 2020. [**[paper]**](https://arxiv.org/pdf/2003.08348v2.pdf) [**[paper]**](https://github.com/mihaidusmanu/local-feature-refinement)
 
 - **[Deepv2d: Video to depth with differentiable structure from motion]** Zachary Teed, Jia Deng. ICLR, 2020. [**[paper]**](https://iclr.cc/virtual_2020/poster_HJeO7RNKPr.html)
 
