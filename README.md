@@ -99,8 +99,9 @@ Feel free to make a PR or contribute. :smile:
 
 - **[Back to the Feature: Learning Robust Camera Localization from Pixels to Pose]** Paul-Edouard Sarlin. CVPR, 2021 [**[paper]**](https://arxiv.org/abs/2103.09213) [**[code]**](https://github.com/cvg/pixloc)
 
-- **[Cross-Descriptor Visual Localization and Mapping]** Mihai Dusmanu. ICCV, 2021 [**[paper]**](https://arxiv.org/abs/2012.01377) [**[code]**](https://github.com/mihaidusmanu/cross-descriptor-vis-loc-map)
+- **[Cross-Descriptor Visual Localization and Mapping]** Mihai Dusmanu. ICCV, 2021 [**[paper]**](https://arxiv.org/abs/2012.01377) [**[code]**](https://github.com/mihaidusmanu/cross-descriptor-vis-loc-map
 
+- **[MatchFormer: Interleaving Attention in Transformersfor Feature Matching]** Qing Wang, Jiaming Zhang. arxiv, 2022 [**[paper]**](https://arxiv.org/pdf/2203.09645.pdf) [**[code]**](https://github.com/jamycheung/MatchFormer)
 <h1 id="Retrieval">Retrieval Methods</h1>
 
 - **[Visual Categorization with Bags of Keypoints]** G. Csurka. ECCV, 2004. [**[paper]**](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/csurka-eccv-04.pdf)
@@ -194,8 +195,9 @@ Feel free to make a PR or contribute. :smile:
 
 - **[Hybrid Rotation Averaging: A Fast and Robust Rotation Averaging Approach]** Yu Chen. CVPR, 2021. [**[paper]**](https://arxiv.org/pdf/2101.09116.pdf) [**[code]**](https://github.com/AIBluefisher/GraphOptim)
 
-- **[Pixel-Perfect Structure-from-Motion with Featuremetric Refinement]** Philipp Lindenberger,* Paul-Edouard Sarlin,* Viktor Larsson, Marc Pollefeys. ICCV, oral, 2021. [**[paper]**](https://arxiv.org/abs/2108.08291)[**[code]**](https://github.com/cvg/pixel-perfect-sfm)
+- **[Pixel-Perfect Structure-from-Motion with Featuremetric Refinement]** Philipp Lindenberger, Paul-Edouard Sarlin, Viktor Larsson, Marc Pollefeys. ICCV, oral, 2021. [**[paper]**](https://arxiv.org/abs/2108.08291)[**[code]**](https://github.com/cvg/pixel-perfect-sfm)
 
+- **[Monocular RGB Scene Reconstruction using Transformers]** Aljaž Božiˇc, Pablo Palafox, Justus Thies, Angela Dai, Matthias Nießner. NeurIPS, 2021. [**[paper]**](https://aljazbozic.github.io/transformerfusion/bozic_2021_transformerfusion.pdf)[**[code]**](https://github.com/AljazBozic/TransformerFusion)
 
 <h1 id="Wait">Waiting to sort</h1>
 
