@@ -4,7 +4,7 @@ The camera re-localization task aims to estimate the 6-DoF pose of a novel (unse
 
 Feel free to make a PR or contribute. :smile:
 
---- 
+---
 
 ### Table of Contents
 - <a href="#FeatureExtration"> survey</a>
@@ -20,7 +20,7 @@ Feel free to make a PR or contribute. :smile:
 - <a href="#Wait ">waiting to sort</a>
 
 
---- 
+---
 
 <h1 id="Surveys">Survey</h1>
 
@@ -54,6 +54,8 @@ Feel free to make a PR or contribute. :smile:
 - **[KFNet: Learning Temporal Camera Relocalization using Kalman Filtering]** Lei Zhou, Zixin Luo, Tianwei Shen... CVPR, 2020 [**[paper]**](https://arxiv.org/pdf/2003.10629.pdf)
 
 - **[Robust Neural Routing Through Space Partitions for Camera Relocalizationin Dynamic Indoor Environments]** Siyan Dong, Qingnan Fan... CVPR, 2021, oral [**[paper]**](https://arxiv.org/pdf/2012.04746.pdf)
+
+- **[CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data]** Qi Yan, Jianhao Zheng, ... CVPR, 2022. [**[paper]**](https://arxiv.org/abs/2112.09081) [**[code]**](https://github.com/TOPO-EPFL/CrossLoc) [**[dataset]**](https://doi.org/10.5061/dryad.mgqnk991c) [**[video]**](https://youtu.be/pytRRXPFqFE) [**[website]**](https://crossloc.github.io/) 
 
 <h1 id="DirectMethod">Direct Method</h1>
 

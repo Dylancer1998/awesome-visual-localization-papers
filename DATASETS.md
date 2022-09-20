@@ -25,6 +25,7 @@
 |       7-Scenes       |    Indoor     |            Train: 26,000 /  Query: 17,000             | - | - |     True     |
 |       12-Scenes       |    Indoor     |            Train: 16,926 /  Query: 5,702             | - | - |     True     |
 |       NCLT       |    Both     |            -             | - | - |     True     |
+| CrossLoc Benchmark | Outdoor | Train: 46256 / Query: 13138 | 111.4G | https://datadryad.org/stash/dataset/doi:10.5061/dryad.mgqnk991c | True |
 
 
 
