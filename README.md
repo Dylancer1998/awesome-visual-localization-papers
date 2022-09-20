@@ -75,6 +75,9 @@ Feel free to make a PR or contribute. :smile:
 
 - **[FisheyeSuperPoint: Keypoint Detection andDescription Network for Fisheye Images]** Anna Konrad. 2021. [**[paper]**](https://arxiv.org/pdf/2103.00191.pdf)
 
+- **[ALIKE: Accurate and Lightweight Keypoint Detection and Descriptor Extraction]** Xiaoming Zhao, Xingming Wu, Jinyu Miao, Weihai Chen, Peter C. Y. Chen, Zhengguo Li. TM, 2021. [**[paper]**](http://arxiv.org/abs/2112.02906)[**[**code**]**](https://github.com/Shiaoming/ALIKE)
+
+- **[PoSFeat: Decoupling Makes Weakly Supervised Local Feature Better]** Kunhong Li, Longguang Wang, Li Liu, Qing Ran, Kai Xu, Yulan Guo. CVPR, 2022. [**[paper]**](https://arxiv.org/abs/2201.02861)[**[**code**]**](https://github.com/The-Learning-And-Vision-Atelier-LAVA/PoSFeat)
 <h1 id="FeatureMatch">Feature Matching</h1>
 
 - **[Learning to Find Good Correspondences]** Kwang Moo Yi. CVPR, 2018, oral. [**[paper]**](https://arxiv.org/abs/1711.05971) [**[code]**](https://github.com/vcg-uvic/learned-correspondence-release)
@@ -102,6 +105,11 @@ Feel free to make a PR or contribute. :smile:
 - **[Cross-Descriptor Visual Localization and Mapping]** Mihai Dusmanu. ICCV, 2021 [**[paper]**](https://arxiv.org/abs/2012.01377) [**[code]**](https://github.com/mihaidusmanu/cross-descriptor-vis-loc-map
 
 - **[MatchFormer: Interleaving Attention in Transformersfor Feature Matching]** Qing Wang, Jiaming Zhang. arxiv, 2022 [**[paper]**](https://arxiv.org/pdf/2203.09645.pdf) [**[code]**](https://github.com/jamycheung/MatchFormer)
+
+-  **[ASpanFormer: Detector-Free Image Matching with Adaptive Span Transformer]** Hongkai Chen, Zixin Luo, Lei Zhou, Yurun Tian, Mingmin Zhen, Tian Fang, David Mckinnon, Yanghai Tsin, Long Quan. ECCV, 2022 [**[paper]**](https://arxiv.org/abs/2208.14201)  **code(coming soon)**
+
+-  **[Deep Kernelized Dense Geometric Matching]** Johan Edstedt, Mårten Wadenbäck, Michael Felsberg. arXiv, 2022 [**[paper]**](https://arxiv.org/abs/2202.00667)  [**[code]**](https://github.com/Parskatt/dkm)
+
 <h1 id="Retrieval">Retrieval Methods</h1>
 
 - **[Visual Categorization with Bags of Keypoints]** G. Csurka. ECCV, 2004. [**[paper]**](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/csurka-eccv-04.pdf)
@@ -155,6 +163,9 @@ Feel free to make a PR or contribute. :smile:
 
 - **[Learning Bipartite Graph Matching for Robust Visual Localization]**  Hailin Yu, Weicai Ye. ISMAR, 2020. [**[paper]**](http://www.cad.zju.edu.cn/home/gfzhang/papers/BGNet/BGNet.pdf)
 
+- **[Learnable Motion Coherence for Correspondence Pruning]**  Yuan Liu, Lingjie Liu, Cheng Lin, Zhen Dong, Wenping Wang. CVPR, 2021. [**[paper]**](https://arxiv.org/abs/2011.14563)[**[code]**](https://github.com/liuyuan-pal/LMCNet)
+
+- **[CLNet: Progressive Correspondence Pruning by Consensus Learning]**  Zhao, Chen and Ge, Yixiao and Zhu, Feng and Zhao, Rui and Li, Hongsheng and Salzmann, Mathieu. ICCV, 2021. [**[paper]**](https://arxiv.org/abs/2101.00591)[**[code]**](https://github.com/sailor-z/CLNet)
 
 <h1 id="Fusion">Multi-sensors Fusion</h1>
 
